@@ -1,2 +1,2 @@
-# Melanated-Machine-Learning-Journey
+# Melanated Machine Learning 
 #MelanatedMachineLearning ; #MML
