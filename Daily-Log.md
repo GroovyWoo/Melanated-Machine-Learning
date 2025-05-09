@@ -1,4 +1,30 @@
 
+## 
+
+9 May 25  
+
+_**Pre-Sprint Setup & Refinement**_
+
+•Finalized GitHub repo cleanup and corrected file placement across branches. 
+
+•Successfully deleted: 
+
+- An incorrectly placed Week1_Overview.md from the main branch. 	
+- A non-markdown Week1_Overview file from the Week1_Sprint branch. 	
+- Verified current structure:
+	 - Main branch: README.md, daily-log.md
+ 	- Week1_Sprint branch: README.md, daily-log.md, Week1_Overview.md
+
+
+•Integrated a tailored learning framework using ChatGPT to create a structured roadmap and sprint strategy for MML (Melanated Machine Learning). 
+
+•Implemented an improved README.md with a clear intro to the mission and intent of the MML repo, which is now live on the repo homepage.
+
+•Outlined and prepped the first vlog script for the MML YouTube channel, setting the foundation for storytelling, community-building, and visibility. 
+
+•Side Note: The visual display of the updated README.md on the repo homepage is a motivating milestone.
+
+
 ##
 
  23, 25 - 28 Apr 25 
