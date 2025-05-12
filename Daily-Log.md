@@ -1,4 +1,36 @@
 
+
+.
+
+
+##
+
+11 May 25  
+
+# Highlights:
+- Officially enrolled in the **Verizon Skill Forward program** with a primary focus on **Artificial Intelligence** and **Machine Learning** (via edX).
+- Created and launched the **Melanated Machine Learning YouTube Channel**; handle: `@MMLVision`. Plan to post vlogs, learning documentation, and children’s audiobook/visual content.
+- Signed up for **Codédex** and completed the **first Python lesson**; earned a badge. Platform is gamified, similar to Codecademy, but with pixel graphics and a growing community.
+- Began organizing inboxes with the new **MelanatedMachineLearning@gmail.com** account; set up email signature and labels.
+- GitHub repo structure cleaned up; now includes main and Week 1 Sprint branches with appropriate `.md` files (e.g., `readme.md`, `daily-log.md`, `Week1_Overview.md`).
+- Continued integrating **ChatGPT** as a daily assistant for learning structure, planning, and documentation across platforms.
+
+### Codecademy Progress (Python / ML-related):
+- **In Progress**:
+  - Code Foundations Skill Path
+  - Learn Python 2 Course
+  - Intro to Machine Learning
+  - Machine Learning: Perceptrons
+  - Machine Learning: Introduction with Regression
+  - Learn to Use ChatGPT
+- **Completed**: N/A (for now)
+
+### Notes:
+- Planning to use **Codecademy + Codédex** side-by-side in Week 1 Python training.
+- Future reflections and quizzing planned based on course completions.
+- Added Codédex to the Week 1 learning framework (update pending below).  
+
+
 ## 
 
 9 May 25  
