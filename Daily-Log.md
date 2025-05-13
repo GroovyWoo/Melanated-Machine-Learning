@@ -2,6 +2,40 @@
 
 ##
 
+13 May 25
+
+Learning Summary
+
+Codédex (Python): 	
+•	Continued progress in Variables module:
+•	Reviewed Operators (using temperature as an example, reminiscent of PEMDAS)	
+•	Learned about Exponents and exponentiation using Body Mass Index (BMI) example
+•	Earned 100 XP and unlocked Discord community access	
+•	Next up: Pythagorean Theorem (will likely include user input/output)
+•	Started #30NitesOfCode Challenge
+•	Logged Day 1 ; Hatched in-platform pet after logging entry
+•	Discovered and bookmarked real-world Python projects for future practice
+
+Codecademy: 
+•	Paused for today
+
+Video Learning / Research:
+•	Watched 30 mins of Liam’s Ultimate AI Agency Masterclass
+•	Key takeaways: Education, Consulting, and Implementation are the 3 pillars
+•	You don’t need to be a coder to start making use of AI tools and services	
+•	“Boat” = Industry + Business Model (similar to company MOAT)
+•	Inspired thoughts about building or supporting AI-driven businesses
+•	Watched 10 mins of Krish Naik’s Complete Machine Learning in 6 Hours
+•	Reviewed differences: AI vs ML vs DL vs DS
+•	Gained clarity on the specific responsibilities of a Data Scientist
+•	Currently paused on Supervised Learning segment
+
+To Review:
+•	Microsoft AI Skills Challenge (briefly forgot—will revisit next session)
+
+
+##
+
 12 May 25
 
 Time Spent: ~1 hour
