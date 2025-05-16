@@ -1,5 +1,7 @@
 # Melanated Machine Learning 
-#MelanatedMachineLearning ; #MML
+#MelanatedMachineLearning ;
+#MML ;
+#MMLVision 
 
 ###
 
