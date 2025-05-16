@@ -2,6 +2,36 @@
 
 ##
 
+
+## 15 May 25
+
+- **Codecademy:** Continued *Learn Python 3* from Hello World to Comments. Hit the paywall quickly—deciding whether to finish other free ML-focused courses instead.
+  - If investing, would consider DataCamp or DataQuest depending on ROI.
+  - Still exploring free resources like freeCodeCamp.org.
+- **Codédex:**
+  - Worked on a currency conversion example upon completing *Variables* module.
+  - Earned the *Memory* badge.
+  - Started the *Control Flow* module/section—next up: Coin Flip exercise.
+ 
+- **Reminder:** Still need to revisit the Microsoft AI Skills Challenge before the Skills Fest ends.
+
+
+---
+
+## 14 May 25
+
+- **Watched YouTube videos** on building a Python Voice Virtual Assistant (Jarvis-style). Excited about the potential for audio-based personal use cases or case studies.
+- **Reviewed Kedasha Kerr's article**, *“3 Steps to Learn Machine Learning in 2025”*:
+  - **Step 1:** Learn Python (suggested: Learn Python 3 via Codecademy).
+  - **Step 2:** Learn ML fundamentals without heavy math (suggested: Machine Learning Specialization by Andrew Ng).
+  - **Step 3:** Build your own models (tools: Kaggle, Google Colab, Scikit-learn).
+  - Step 3 resonated most—reinforced the importance of foundational skills while staying motivated to create and build.
+- **Codecademy:** Started the *Learn Python 3* course.
+- **Codédex:** Completed the *Pythagorean Theorem* module—practice with integers, input/output functions. Enjoying the interactive nature.
+
+
+##
+
 13 May 25
 
 Learning Summary
