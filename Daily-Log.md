@@ -2,6 +2,100 @@
 
 ##
 
+## 26 May 25 
+
+# Melanated Machine Learning (MML)
+- **Launched the first vlog episode** of Melanated Machine Learning (Episode 1)!
+  - Title: *What Is Melanated Machine Learning? (Welcome)*
+  - [YouTube Link] (https://youtu.be/eyqfgPIefZA) 
+
+
+**Reflections**
+- Officially marked the beginning of the MML journey. Grateful for the support and encouragement so far.
+- Feeling slightly nervous but confident in the larger purpose behind the project.
+- Positive feedback received from viewers who are excited for future episodes and the growth of the space.
+
+
+**Action Items**
+- Reminder to begin setting up related **social media pages** (Twitter, IG, LinkedIn, etc.) to increase visibility and engagement.
+
+
+
+--- 
+
+## 23 May 25 
+
+**MSFT AI Skills Fest**
+- Noted that the **Microsoft AI Skills Fest** is wrapping up.
+  - Plan to revisit the challenges over time, as they may be beneficial for learning and project development.
+  - Some challenges were integrated with **LinkedIn Learning** modules that offer certificates, which can be added to a LinkedIn profile and potentially a resume.
+
+**Codédex Progress**
+- Revisited the **Magic 8 Ball** exercise:
+  - Realized I had initially overlooked the provided answer mappings in the instructions.
+  - The use of `if/elif/else` statements now makes more sense, as they directly correspond to the random number range (1–9).
+- Reviewed the **Cyclone** exercise, which introduces the use of **logical operators** in control flow.
+
+
+
+---
+
+## 22 May 25
+
+**Codédex Progress**
+- Completed the **Magic 8 Ball** exercise in the **Control Flow** chapter/module.
+  - Utilized the `random` number function to simulate the randomness of a Magic 8 Ball (numbers 1–9).
+    - Rolled a **7** on first run, **2** on second, and **5** on third.
+    - The randomness reminded me of a dice game or chance-based system.
+- Developed a **Q&A** interaction for the exercise (coining it "Q&8" for Magic 8 Ball), where a question prompts a randomized response.
+  - Needed some assistance with the `if/elif/else` logic structure to map numbers to appropriate Magic 8 Ball-style answers. 
+
+
+
+---
+
+## 20 May 25 
+
+**Codédex Progress**
+- Continued working through the **Control Flow** chapter/module:
+  - **Grades** exercise: practiced `if/else` logic to determine "pass" or "fail" based on grade input.
+  - **pH Levels** exercise: used relational operators with `if/elif/else` statements to interpret acidity levels.
+- Pet in Codédex died due to inactivity after a few days. Restarted the **#30NitesOfCode** challenge to build consistency and momentum.
+
+**Codecademy Progress**
+- Continued the **Machine Learning: Perceptrons** module.
+  - Got about halfway through the first task.
+  - Beginning to understand foundational ML model behavior and logic through visual and code-based examples.
+
+
+---
+
+## 16 May 25 
+
+ **Career Development & Networking**
+- Spoke with a potential recruiter from a Technical Interview Prep Program that trains experienced engineers for AI/ML roles.
+- Discussed current interest in transitioning into ML roles, with mention of data science as a starting point based on existing skillset.
+- Recruiter provided guidance on:
+  - Skills required to shift into machine learning roles.
+  - Real-world, hands-on learning projects.
+  - Building and deploying machine learning models.
+
+**Learning & Research**
+- Watched several YouTube videos from experienced professionals discussing:
+  - What they would learn if starting over.
+  - Key advice and insights on learning Python and Machine Learning fundamentals.
+
+**Codédex Progress**
+- Continued with the **Control Flow** chapter/module.
+- Completed the **Coin Flip** exercise, which introduced conditional logic using `if/else` statements.
+- Ran the coin toss simulation 10 times:
+  - Heads: 11111  
+  - Tails: 11111  
+  - Outcome: 50/50 — perfect distribution.
+- Found the exercise engaging and a good application of control logic.
+
+
+---
 
 ## 15 May 25
 
