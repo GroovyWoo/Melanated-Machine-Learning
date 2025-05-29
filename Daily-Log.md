@@ -2,6 +2,50 @@
 
 ##
 
+## 29 May 25 
+
+**CodéDex**
+- Completed **The Sorting Hat** exercise — final task in the Control Flow module.
+  - Initially intimidated by the structure: multiple questions, numbered answers, and tracking score logic.
+  - Tried writing out full `if/elif/else` logic manually before using hint — good test of understanding so far.
+  - Noticed that while repetitive, the **manual coding** is reinforcing foundational logic skills.
+  - Cool to see which **Harry Potter house** I ended up in — nice touch for fans of the series!
+- Earned **Road Badge** for completing the Control Flow chapter. 🏅
+
+**Reading & Learning**
+- Finished **Chapter 2** of *Machine Learning for Dummies (IBM Limited Edition)*.
+  - Continued reinforcing foundational ML concepts and terminology.
+  - Insights building toward future vlog content and more confidence when explaining topics.
+  - Also thinking of solutions for businesses, based on problems/needs. 
+
+
+
+--- 
+
+## 27 May 25 
+
+**CodéDex**
+- Completed **Cyclone exercise** in Control Flow module.
+  - Practiced using **logical/boolean operators**: `and`, `or`, `not`.
+  - Minimal help needed—felt confident with logic.
+  - Reminder: Recalled importance of using `int(input(...))` for user input.
+- **Pet evolved!** 🎉  
+  *(<img width="417" alt="Screenshot 2025-05-27 at 4 36 04 PM" src="https://github.com/user-attachments/assets/b3723051-99ac-4bdd-9872-a53da781df77" />*  
+
+
+**Reading & Learning**
+- Read **Chapter 1** of *Machine Learning for Dummies (IBM Limited Edition)*.
+  - Revisited foundational ML definitions and real-world examples.
+  - Sparked ideas for **future vlog episodes** and how to simplify/explain key topics to others.
+
+**EdX Verizon Program**
+- **Enrolled** in *IBM’s AI For Everyone: Master the Basics* course.
+  - Started **Module 1: Introduction and Applications of AI**.
+
+
+
+--- 
+
 ## 26 May 25 
 
 # Melanated Machine Learning (MML)
