@@ -2,6 +2,43 @@
 
 ##
 
+## 31 May 25 
+
+ **📚 CodéDex**
+
+**Detention Exercise** (Loops Module):  
+- Practiced using `for` loops and `range()` functions.  
+- Completed the exercise in two attempts. Double-checked solution due to how quickly it was completed.
+- One of the shortest exercises so far (besides `print("hello world")`).
+
+**99 Bottles Exercise** (Loops Module):  
+- Used `for` loop, `range()`, and string interpolation.  
+- Compared to the backend of email newsletters — same body, different personalized fields (e.g. name).  
+- Initial output was backwards (0 up to 99). Attempted `{1 - i}` which resulted in output from 0 to -98.  
+- Realized the proper `range()` was `(99, 0, -1)`. Will research more on how the 0 and sequence order work.
+- Originally wrote the entire hook/chorus on one `print()` line. While it worked, the line-by-line solution was clearer and cleaner.
+
+**✅ Up Next** 
+
+**Fizz Buzz** is the final exercise in the Loops module.
+
+- Remaining CodéDex Python modules are behind a paywall (`Join Club`).
+- Considering pivoting to:
+  - CodéDex’s *User Tutorial Projects* (mostly Python-focused),
+  - Another beginner Python program/platform outside of CodéDex,
+  - CodéDex’s *NumPy* (Intermediate, free) or *SQL* (Beginner) courses.
+  - Exploring *Challenge Packs* in the *Practice* tab (includes Python, HTML, JavaScript).
+
+> Not planning to stop using CodéDex anytime soon — just expanding the toolkit and seeking more advanced or varied challenges.
+
+
+
+
+
+
+
+---
+
 ## 30 May 25 
 
 **CodéDex**
