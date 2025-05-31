@@ -2,6 +2,30 @@
 
 ##
 
+## 30 May 25 
+
+**CodéDex**
+- Completed **Enter PIN** exercise in the Loops module.
+  - Example simulated an ATM login system.
+  - Reinforced understanding of login/access logic and attempt limits (e.g., 3 tries before lockout).
+  - Recognized repeated use of `int(input())` for handling **user input**, especially when numerical input is required.
+
+- Completed **Guess the Number** exercise.
+  - Practiced using `while` loops.
+  - Started with **infinite attempts**, then introduced a limit to the number of tries.
+  - Made a slight error with a **relational operator**, but resolved it through testing.
+  - Completing both exercises in the same session strengthened understanding of user interaction + control structures.
+  - Considering building a **portfolio project** inspired by these exercises to solidify knowledge and demonstrate applied skills.
+
+## Reading & Learning
+- Finished **Chapter 3** of *Machine Learning for Dummies (IBM Limited Edition)*.
+  - Learned about the **importance of selecting the right ML algorithm** depending on the business problem.
+  - Emphasis on **data collection, quality, privacy**, and **governance**.
+  - Introduced to the **Machine Learning Cycle**, which will become more relevant as real data is collected and used to **train/test models**.
+
+
+---
+
 ## 29 May 25 
 
 **CodéDex**
