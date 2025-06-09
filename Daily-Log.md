@@ -2,6 +2,28 @@
 
 ##
 
+## 3 Jun 25
+
+
+
+---
+
+## 1 Jun 25 
+
+- Read chapter 4 of *Machine Learning for Dummies, IBM Limited Edition*: **Getting Started with Machine Learning**.
+- Key concepts covered:
+  - Understanding how ML can help.
+  - Focusing on the business problem(s), along with 3 fundamentals:
+    1. What is the business problem you’re trying to solve?
+    2. What are the hidden data resources that you can take advantage of to better understand your opportunities and threats?
+    3. How can you prepare to get your data in order?
+  - Importance of collaboration (within roles).
+  - Executing a pilot project.
+  - Determining the best learning model (and which tools to select and use). 
+
+
+---
+
 ## 31 May 25 
 
  **📚 CodéDex**
