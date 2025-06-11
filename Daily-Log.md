@@ -3,6 +3,37 @@
 ##
 
 
+## 🗓️ June Week 1 Recap 
+**Range:** June 1 – June 7, 2025
+
+---
+### 🤝 AI Collective Collaboration
+- Met with individuals to build an **AI collective**.
+- Focused on aligning efforts with the **Technology Adoption Lifecycle** to capitalize on the wave early.
+- Meetings centered around **role definitions**, **team structure**, and **framework building**.
+
+### 🧠 Python & ML Practice
+- Less hands-on time with Python/ML this week due to collective formation activities.
+- Intention to return to consistent practice and project work next week.
+
+### 🛠️ Tools & Workflow
+- Finally used **Gamma** for presentation and visual storytelling — wish I had been utilizing it sooner.
+- Identified opportunity to **leverage AI tools** for:
+  - Workflow optimization
+  - Video editing (vlogs for sure)
+  - Project and framework development
+
+### 📌 Key Focus Areas Moving Forward
+- Begin developing **solo project ideas**.
+- Utilize AI tools more effectively for **proficient workflows**.
+- Streamline **video creation and editing** for content documentation.
+
+### 🌐 MML Expansion
+- Created and launched **social media pages** for *Melanated Machine Learning (MML)* ; @MMLVision .
+
+
+![MML Vision Written (main) -  2025,  AM](https://github.com/user-attachments/assets/09fb0b0d-78cb-43b4-bdd7-c0b2202c1cdb)
+
 
 
 ---
