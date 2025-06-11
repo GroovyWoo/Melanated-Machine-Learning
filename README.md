@@ -52,3 +52,18 @@ Stay Positive, Stay Blessed, an Stay Hydrated Playa...
 — *Q* / *MML* 
 
 
+
+![MML Vision Written (main) -  2025,  AM](https://github.com/user-attachments/assets/06d865f6-ae3c-43a0-b397-fea22bc79b76)
+
+
+
+
+
+
+
+
+
+
+---
+
+
