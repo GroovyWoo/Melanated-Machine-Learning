@@ -2,8 +2,27 @@
 
 ##
 
-## 3 Jun 25
 
+
+
+---
+
+## 📅 3 Jun 25
+
+
+### 🐍 CodéDex
+
+- Completed **Fizz Buzz** exercise within the **Loops** module/chapter.
+- 🧠 This was an interesting (and difficult) challenge. Wasn’t familiar with the exercise before, but now understand why it’s used in interviews.
+- ✅ Successfully printed numbers from 1–100, but struggled with `if/elif/else` structure.
+  - `if` statement was initially written backwards and wasn’t indented inside the `for` loop, which caused issues.
+- 🏅 Earned the **Halo badge** after completing the Loops Module/Chapter.
+- 📌 Noticed additional **Challenge Packs** in the Control Flow and Loops sections—will attempt those next.
+
+
+### 📘 Reading Progress
+
+- Finished **Chapter 5** of _Machine Learning for Dummies, IBM Limited Edition_.
 
 
 ---
