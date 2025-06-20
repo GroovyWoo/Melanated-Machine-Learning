@@ -3,6 +3,24 @@
 ##
 
 
+### 12 June 2025 
+
+**CodéDex**
+ - Continued Challenge Pack: Control Flow  
+ - ✅ Completed Challenge 2: High School Grades
+
+
+---
+
+### 11 June 2025 
+
+- **CodéDex**
+  - Started **Challenge Pack: Control Flow**
+  - Completed **Challenge 1: Food Ratings**
+
+
+--- 
+
 ## 🗓️ June Week 1 Recap 
 **Range:** June 1 – June 7, 2025
 
