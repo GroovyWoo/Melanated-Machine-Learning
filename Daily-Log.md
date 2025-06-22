@@ -359,27 +359,26 @@
 - **Codecademy:** Started the *Learn Python 3* course.
 - **Codédex:** Completed the *Pythagorean Theorem* module—practice with integers, input/output functions. Enjoying the interactive nature.
 
+---
 
-##
+## 13 May 25
 
-13 May 25
+**Learning Summary**
 
-Learning Summary
+**Codédex (Python)**: 	
+- •	Continued progress in Variables module:
+- •	Reviewed Operators (using temperature as an example, reminiscent of PEMDAS)	
+- •	Learned about Exponents and exponentiation using Body Mass Index (BMI) example
+- •	Earned 100 XP and unlocked Discord community access	
+- •	Next up: Pythagorean Theorem (will likely include user input/output)
+- •	Started #30NitesOfCode Challenge
+- •	Logged Day 1 ; Hatched in-platform pet after logging entry
+- •	Discovered and bookmarked real-world Python projects for future practice
 
-Codédex (Python): 	
-•	Continued progress in Variables module:
-•	Reviewed Operators (using temperature as an example, reminiscent of PEMDAS)	
-•	Learned about Exponents and exponentiation using Body Mass Index (BMI) example
-•	Earned 100 XP and unlocked Discord community access	
-•	Next up: Pythagorean Theorem (will likely include user input/output)
-•	Started #30NitesOfCode Challenge
-•	Logged Day 1 ; Hatched in-platform pet after logging entry
-•	Discovered and bookmarked real-world Python projects for future practice
-
-Codecademy: 
+**Codecademy**: 
 •	Paused for today
 
-Video Learning / Research:
+**Video Learning / Research**:
 •	Watched 30 mins of Liam’s Ultimate AI Agency Masterclass
 •	Key takeaways: Education, Consulting, and Implementation are the 3 pillars
 •	You don’t need to be a coder to start making use of AI tools and services	
@@ -394,14 +393,14 @@ To Review:
 •	Microsoft AI Skills Challenge (briefly forgot—will revisit next session)
 
 
-##
+--- 
 
-12 May 25
+## 12 May 25
 
-Time Spent: ~1 hour
-Focus Areas: Python (Codédex), Machine Learning (Codecademy)
+ -**Time Spent**: ~1 hour
+ -**Focus Areas**: Python (Codédex), Machine Learning (Codecademy)
 
-Codédex Progress : 
+**Codédex Progress** : 
 •Verified completion of first Python module: Hello World
 •Discovered and bookmarked bonus article: Set Up Your Local Development Environment with Python
 •Covers installing VS Code and running Python locally
@@ -409,7 +408,7 @@ Codédex Progress :
 •Started second module: Variables
 •Completed subsection on data types (refresher)
 
-Codecademy Progress : 
+**Codecademy Progress** : 
 •Continued with ML: Perceptrons module
 •Jumped into a 7-question quiz (scored 5/7)
 •Incorrect on questions about bias weight default and training error
@@ -417,17 +416,15 @@ Codecademy Progress :
 •Noted initial difficulty understanding the concept—will revisit
 
 
-Notes 
+**Notes** 
 
 •No quiz or test follow-up today
 •Next session: revisit logic gates, possibly review bias/activation function concepts
 
 
-##
+## 11 May 25 
 
-11 May 25 
-
-### Highlights:
+**Highlights**:
 - Officially enrolled in the **Verizon Skill Forward program** with a primary focus on **Artificial Intelligence** and **Machine Learning** (via edX).
 - Created and launched the **Melanated Machine Learning YouTube Channel**; handle: `@MMLVision`. Plan to post vlogs, learning documentation, and children’s audiobook/visual content.
 - Signed up for **Codédex** and completed the **first Python lesson**; earned a badge. Platform is gamified, similar to Codecademy, but with pixel graphics and a growing community.
@@ -451,9 +448,7 @@ Notes
 - Added Codédex to the Week 1 learning framework (update pending below).
 
 
-## 
-
-9 May 25  
+## 9 May 25  
 
 _**Pre-Sprint Setup & Refinement**_
 
