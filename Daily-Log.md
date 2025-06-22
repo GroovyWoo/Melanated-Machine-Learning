@@ -3,7 +3,48 @@
 ##
 
 
-### 12 June 2025 
+
+
+
+---
+
+## 18 Jun 25 
+
+### 📘 EdX Verizon Skill Forward
+- ✅ Finished **Module 2: AI Concepts, Terminology, and Application Domains** (IBM’s AI for Everyone)
+  - Passed graded quiz: **10/10**
+- 🚀 Started **Module 3: Business & Career Transformation Through AI**
+
+### 🧠 CodéDex
+- 🎉 Completed **30NitesOfCode Challenge**  
+<img width="801" alt="Screenshot 2025-06-18 at 11 52 25 PM" src="https://github.com/user-attachments/assets/84086cd2-170a-470d-a7cb-e774f9708fc5" />
+
+
+--- 
+
+## 17 Jun 25 
+
+### 📘 EdX Verizon Skill Forward
+- Currently enrolled in **IBM’s AI for Everyone: Master The Basics**
+- ✅ Finished **Module 1: Introduction and Applications of AI**
+  - Passed graded quiz: **8/10**
+- 📍 Halfway through **Module 2: AI Concepts, Terminology, and Application Domains** 
+
+
+---
+
+## 15 Jun 25
+
+### **🔍 Activities**
+- 🧠 Took a mini quiz to test current Python/ML knowledge
+- 💻 Became more familiar with **MacOS Terminal**
+  - Explored terminal commands while attempting to install Python via **Homebrew**
+  - Learned the differences between **bash** and **zsh** 
+
+
+---
+
+## 12 June 25 
 
 **CodéDex**
  - Continued Challenge Pack: Control Flow  
@@ -12,7 +53,7 @@
 
 ---
 
-### 11 June 2025 
+## 11 June 25 
 
 - **CodéDex**
   - Started **Challenge Pack: Control Flow**
