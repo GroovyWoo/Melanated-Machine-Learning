@@ -2,8 +2,39 @@
 
 ##
 
+##
 
 
+## 22 Jun 25 
+
+### 📘 Automate the Boring Stuff with Python (ATBSWP)
+- Continued **Lesson 3: Your First Program**
+- Faced some challenges using **MacOS Terminal** + **TextEdit**, while the instructor used **Windows Command Prompt** + **Mu Editor**
+- 🛠️ Troubleshooting on the fly due to differences in file handling/editing on Mac
+- ⏳ Didn’t complete lesson due to time constraints
+- ✅ Considering switching to **Visual Studio Code** on Mac for a smoother workflow moving forward 
+
+
+---
+
+## 20 Jun 25 
+
+### 🐍 Python Environment Setup
+- ✅ Successfully installed **Python via Homebrew** after extensive troubleshooting
+  - Resolved persistent `'killed'` message error
+  - Mac terminal setup is now complete for project work
+
+### 📘 Automate the Boring Stuff with Python (ATBSWP)
+- 🚀 Started course and reached **Lesson 3**
+- ✅ Excited to finally dive in and begin applying concepts
+
+
+---
+
+## 19 Jun 25 
+
+### 📘 EdX Verizon Skill Forward
+- 📍 Halfway through **Module 3: Business & Career Transformation Through AI** (IBM’s AI for Everyone)
 
 
 ---
