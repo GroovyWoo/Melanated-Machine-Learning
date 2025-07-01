@@ -546,6 +546,12 @@
 - •	Logged Day 1 ; Hatched in-platform pet after logging entry
 - •	Discovered and bookmarked real-world Python projects for future practice
 
+- <img width="765" alt="Screenshot 2025-05-13 at 4 45 33 PM" src="https://github.com/user-attachments/assets/92cc05d5-60c0-4440-842f-51358942e670" />
+- 
+.
+- <img width="715" alt="Screenshot 2025-05-13 at 4 45 58 PM" src="https://github.com/user-attachments/assets/795e3cc5-1c79-41cb-addc-d84b70de0ddb" />
+.
+
 **Codecademy**: 
 •	Paused for today
 
