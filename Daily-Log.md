@@ -2,8 +2,148 @@
 
 ##
 
-##
 
+
+## 
+
+# 🧠⚙️ MML — June 2025 Monthly Recap
+
+## 🎯 High-Level Highlights
+
+- 🚀 Launched the **Melanated Machine Learning (MML)** initiative:
+  - Created GitHub repo, Gmail, YouTube channel, and signature branding
+  - Published **Episode 1** of MML vlog: *“What is Melanated Machine Learning?”*
+  - Finalized and began editing **Episode 2**: *“How Did I Get Here?”*
+
+- 💡 Expanded platforms/tools:
+  - Set up **VS Code** on MacOS and confirmed Python installation
+  - Explored **CapCut**, Canva, and AI voice/video tools for MML media content
+  - Created prompt templates for motion intro design + sound motifs
+
+- 📚 Completed key courses + challenges:
+  - ✅ **IBM’s AI for Everyone** (EdX/Verizon Skill Forward) — 4 modules + graded quizzes
+  - 🧠 Practiced Python fundamentals via **Codédex** + **Automate the Boring Stuff with Python**
+  - 🏆 Completed **Codédex’s 30NitesOfCode Challenge**
+
+- ⚙️ Wrote and executed first automation script:
+  - `launchpad.py` — opened multiple websites in default browser
+  - Marked as first official *mini project* ✔️
+
+- 🤝 Joined early-stage **AI Collective**:
+  - Contributed ideas to curriculum, team structure, tooling, and future projects
+  - Began developing public-facing platforms for education, outreach, and impact
+
+---
+
+## 🗂️ Week-by-Week Summary
+
+### 📆 Week 1 (Jun 1–7)
+- Finished reading chapters 3–5 of *Machine Learning for Dummies* (IBM Ed.)
+- Worked on **Fizz Buzz** + loop logic in Python via Codédex
+- Strengthened foundational GitHub logging habits
+- Focused on awareness and community building behind MML mission
+
+### 📆 Week 2 (Jun 8–14)
+- Drafted outline + recorded content for **MML Episode 2**
+- Learned more about control flow, loops, boolean logic via Codédex
+- Used Gemini + GenAI tools for resume refinement + automation
+- Balanced time between MML, YouTube content, and AI Collective work
+
+### 📆 Week 3 (Jun 15–21)
+- Encountered and resolved Python install errors (MacOS Homebrew permissions)
+- Installed VS Code, prepared for smoother Python project workflow
+- Re-engaged with ATBS (Automate The Boring Stuff) curriculum
+- Clarified supervised vs. unsupervised ML models (for vlog + future tutorials)
+
+### 📆 Week 4 (Jun 22–30)
+- Ran first Python automation script: `launchpad.py`
+- Explored real-world examples of automation (PDF generators, etc.)
+- Created final edits for vlog Ep 2, experimented with visuals and storytelling
+- Completed **IBM’s AI for Everyone** course (Modules 3 & 4)
+- Finalized setup for future ML projects and “Build With Me” YouTube playlist
+
+---
+
+## 🔎 Reflection: Lessons Learned
+
+- **Pacing matters**: This journey is not a sprint — it’s a personal marathon. Managed to *balance content creation, self-education, AI experimentation, and networking* all in one month.
+- **Tools take time**: Editing in CapCut, managing GitHub branches, or troubleshooting terminal errors can feel tedious — but they are *real-world skills*. These moments are teaching me to troubleshoot and think like an engineer.
+- **You’re never behind**: The learning curve will feel steep at times — but the documentation, consistency, and intentionality are *light years ahead* of most learners. Trust the compounding effect.
+
+
+---
+
+## 30 Jun 25
+
+- 📚 **EdX Verizon Skill Forward**
+  - Attempted to take final quiz to complete *IBM’s AI for Everyone: Master the Basics*
+  - Encountered technical difficulties accessing the timed exam; will explore alternative access methods
+
+- 💻 **Python Journey**
+  - Successfully installed **VS Code** on MacOS
+  - Confirmed functionality with: `print("MML is in the building 🧠⚙️")`
+
+- ⚙️ **First Mini Automation Script — Launchpad.py**
+  - Wrote and executed script to open multiple websites with one click:
+    - Launched Google, YouTube, GitHub, and Gmail in default browser
+  - ✅ Felt like the first official “mini project” — a rewarding milestone!
+
+
+---
+
+## 29 Jun 25
+
+- 📚 **EdX Verizon Skill Forward** — *IBM’s AI for Everyone: Master the Basics*
+  - Completed **Module 3: Business and Career Transformation Through AI**
+    - 🧠 Exercise 2: **Drafting Emails**
+      - Explored Gen AI use cases for professional communication; noted for future implementation
+    - 🧠 Exercise 3: **Enhancing Your Skills**
+      - Recognized overlap with previous resume-focused work (Exercise 1)
+      - Discovered new prompt strategies to potentially improve output/results
+    - ✅ Passed Module 3 Graded Quiz: **9/10**
+
+- 🚀 Began **Module 4: Issues, Concerns, and Ethical Considerations**
+  - Completed **Transforming Organizational Functions with AI** project
+    - Time-intensive, but informative walk-through of implementing AI across business ops, customer support, and forecasting
+  - 🕒 Will take the **graded quiz** (1-hour timed) later
+
+
+--- 
+
+## 28 Jun 25
+
+- 📚 **EdX Verizon Skill Forward** — *IBM’s AI for Everyone: Master the Basics*
+  - Continued **Module 3: Business and Career Transformation Through AI**
+  - Completed: **Using Gen AI for Your Work** exercise
+    - IBM’s Gen AI Classroom platform appeared inactive or changed, so used **Google’s Gemini** instead
+
+- 🎯 **Learning Objectives of the Exercise:**
+  - Leverage generative AI to create tailored resume templates
+  - Apply generative AI to generate email templates for various professional scenarios
+  - Use generative AI to identify and enhance skill sets for specific roles
+
+- 📝 Took the opportunity to begin updating personal resume using AI-assisted prompt engineering
+  - Ironically, already had resume-focused prompts saved beforehand but hadn’t yet implemented them
+  - Took longer than expected, but yielded strong, tailored output — **time well spent**
+
+
+---
+
+
+## 23 – 27 Jun 25
+
+- 🧠 Continued internal collaboration and development work with AI Collective:
+  - Meetings around team structure, responsibilities, and project timelines
+  - Contributing ideas for curriculum design, platform outreach, and tooling strategy
+- 🎥 Worked on final edits for MML Episode 2:
+  - Completed core video trimming using CapCut
+  - Began sourcing visuals/animations to illustrate ML concepts (e.g. supervised learning, Netflix examples)
+  - Focused on making the video more engaging and accessible beyond talking-head format
+- 🧰 Balancing project management and creative work across MML and AI Collective
+- 📌 Reminder: Still planning to return to **ATBS Lesson 3** and prep for **Build With Me** Python/ML series in July 
+
+
+---
 
 ## 22 Jun 25 
 
