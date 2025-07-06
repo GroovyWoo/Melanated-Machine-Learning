@@ -6,6 +6,8 @@ This directory will serve as the home base for Python and Machine Learning proje
 
 ## Coming Soon
 
+- MML Launchpad
+- Number Guessing Game 
 - Book Recommendation Bot 📚
 - PDF Invoice Generator 🧾
 - AI-Powered Journal Prompter ✍🏽
