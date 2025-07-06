@@ -7,7 +7,25 @@
 ##
 
 
-### 📅 2 Jul 25
+## 📅 5 Jul 25
+
+### 🐍 Automate The Boring Stuff With Python (ATBS)
+- **Lesson 4 (YouTube) / Chapter 2 (eBook):** Focused on *Flow Control*.
+- Practiced comparison and Boolean operators (`True` & `False`) using MacOS Terminal.
+- Reviewed flowchart examples for `if/else/elif` and `while` loops — reminded me of similar exercises from Codédex.
+- Had an idea to turn the *“She’s Too Young For You Bro”* flow logic into a mini game — something to explore later.
+- Completed *Infinite Loop* exercise; confirmed `ctrl + C` stops the loop with a `KeyboardInterrupt` message.
+- Modified “Who Are You?” infinite loop into a playful version called *“New pHone, Who Dis?”*
+  - Observed infinite loop behavior when incorrect input was entered.
+  - Noted a bug: The “access granted” message appeared even when input was incorrect — logic bug in `if` statement at the end. True/False condition needs refinement.
+  - Program ends as expected when correct input is finally given — something to revisit during debugging practice.
+
+> 🎯 **Note:** Will continue building familiarity with input validation, control flow logic, and testing user interaction via CLI.
+
+
+---
+
+## 📅 2 Jul 25
 
 #### 🧠 EdX Verizon Skill Forward — IBM's AI for Everyone: Master the Basics
 - Completed **Module 4: Issues, Concerns, and Ethical Considerations**
@@ -24,7 +42,7 @@
 
 ---
 
-### 📅 1 Jul 25 ###
+## 📅 1 Jul 25 ##
 
 #### 🐍 Automate The Boring Stuff With Python (ATBS)
 - Continued **Lesson 3: Your First Program**
