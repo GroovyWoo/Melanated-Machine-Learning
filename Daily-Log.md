@@ -4,6 +4,38 @@
 
 
 
+##
+
+
+### 📅 2 Jul 25
+
+#### 🧠 EdX Verizon Skill Forward — IBM's AI for Everyone: Master the Basics
+- Completed **Module 4: Issues, Concerns, and Ethical Considerations**
+- Took the **Graded Quiz** (1-Hour Timed Exam)  
+  - ✅ Scored **9/10**
+  - 📘 Surprised by the short format — only 10 questions total
+- Officially **completed the full IBM AI for Everyone course** 🎓🎉
+
+#### 🔁 Looking Ahead
+- Currently debating next steps:
+  - 📚 Start a new course
+  - ⏸️ Take a short pause to go deeper into **ATBS**, focus on more **Python exercises**, and start/complete **intro-level ML projects** 
+
+
+---
+
+### 📅 1 Jul 25 ###
+
+#### 🐍 Automate The Boring Stuff With Python (ATBS)
+- Continued **Lesson 3: Your First Program**
+- Encountered syntax issues when copying and pasting code (e.g., `print("Hey Young World")`).
+  - Discovered that invisible formatting characters from **TextEdit** were likely causing errors.
+  - Retyped the code manually in **VS Code** and it executed successfully without issues.
+- Interacted with the program via `input()` — a smooth Q&A-style flow!
+- Reflected: “This was supposed to be *automate* the boring stuff, not make it difficult 😅”
+- Completed **Practice Questions** for Lesson 3 before advancing to Lesson 4.
+  
+----
 ## 
 
 # 🧠⚙️ MML — June 2025 Monthly Recap
