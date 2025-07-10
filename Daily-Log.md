@@ -2,10 +2,73 @@
 
 ##
 
+## 
+
+### 🗓️ 9 Jul 25
+
+- 📘 **Automate The Boring Stuff With Python**  
+  - Continued **Lesson 4 (YouTube)** / **Chapter 2 (ebook)** on *Flow Control*.
+
+  - ✅ **Importing Modules**  
+    - Learned about the **standard library** — built-in Python modules like `random`, `sys`, `os`, `math`.
+    - Important tip: Avoid overwriting module names to prevent `AttributeError`.
+    - Error encountered during `printRandom.py`:  
+      - `AttributeError: module 'random' has no attribute 'radiant'`  
+      - Realized `"radiant"` was a typo — should’ve been `"randint"`, smh 🤦🏽‍♂️  
+      - Corrected and code ran fine afterwards.
+
+  - ✅ **System Exit Exercise**  
+    - Created program that included an infinite loop intended to break with `sys.exit()`  
+    - While using **VS Code** (instead of IDLE), didn’t observe infinite loop behavior as expected. Message displayed `"type exit to exit"` followed by exit prompt.
+    - Moving on for now, may revisit in the future.
+
+  - ✅ **Guess the Number Game**  
+    - User guesses a secret number between 1 and 20 within 6 attempts using `randint()`.
+    - Displays number of guesses taken if successful.
+
+  - ✅ **Rock, Paper, Scissors Game**  
+    - Used both `random` and `sys` modules.
+    - Encountered formatting issue where part of the code was greyed out in VS Code. Took a break (nap), realized issue was with indentation, fixed it, and ran it successfully.
+    - Won 3 times in a row — ended while I was on top, undefeated 💪🏽
+
+<img width="385" alt="Screenshot 2025-07-09 at 6 47 02 PM" src="https://github.com/user-attachments/assets/1f6002e6-a6c2-4038-abf4-bd2f4fded216" />
+
+  - 🧠 **Practice Questions**  
+    - Completed chapter-end practice questions.
+    - Some were challenging, but attempting each one strengthened understanding of concepts.
+
+- 🕹️ **Project: You Guessed It**  
+  - Built simple number guessing game and named it **You Guessed It** 🎯
+  - Basic version for now — may expand later with difficulty levels or score tracking (v2 or deluxe version). 
+  - Project added to `Projects` folder on GitHub so others can play and/or contribute. 
+
+  
+---
 
 
-##
+## 🗓️ 8 Jul 25
 
+- 📘 **Automate The Boring Stuff With Python**  
+  - Continued **Lesson 4 (YouTube)** / **Chapter 2 (ebook)** on *Flow Control*.
+  - Practiced **Truthy and Falsey values**: created an input-based program where the user confirms name and guest count — resembles a reservation system (e.g., restaurant or hotel).
+  - Explored `for` loops with the `range()` function:  
+    - First message prints once, followed by second message five times — reminded me of a producer tag stutter effect.
+    - Implemented **Young Gauss** summation technique with loop.
+    - Completed additional `range()` function examples to reinforce understanding of counting patterns and repetition.
+  - Noted strong overlap between these exercises and previous CodéDex challenges — reinforcing foundational learning.
+  - 👀 Insight: Range functions will likely become more useful when manipulating data, especially for ascending/descending patterns.
+
+
+---
+
+## 🗓️ 6 Jul 25
+
+- ✅ Added **Launchpad.py** as the first (mini) Python project to the `Projects` folder in the MML GitHub repo.
+- 📁 Created a dedicated subfolder with a `README.md` documenting the project overview, usage, and additional context for future viewers or collaborators.
+- ✍🏽 Reinforced GitHub repo structure (Projects folder + individual READMEs) to scale future project contributions.
+- 🎉 Noted as the official **first Python project milestone** in the MML journey — marking a shift from practice to actual builds.
+
+---
 
 ## 📅 5 Jul 25
 
