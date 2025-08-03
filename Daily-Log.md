@@ -2,7 +2,154 @@
 
 ##
 
+
 ## 
+
+## 📆 July 2025 Recap & Reflection
+
+### 🧠 Highlights & Accomplishments
+
+- ✅ **Released MML Episode 2** on YouTube  
+  - Focused on "How Did I Get Here?"—covering personal ML journey, foundational concepts of machine learning, and common model types (Supervised, Unsupervised, etc.).  
+  - Editing proved time-consuming, especially using CapCut (watermark included), but the episode was finalized and shared across platforms.  
+
+- ✅ **Published First Two Python Projects to GitHub**  
+  - `Launchpad.py` (mini browser automation script): opened multiple MML-related websites with one command.  
+  - `You Guessed It` (number guessing game): included project README, learning use of `random.randint`, loops, input validation, and project structure.  
+  - Both added to the `projects/` folder in the MML repo with complete READMEs.
+
+- 🧩 **Python Study & Learning Progress**  
+  - Continued through *Automate The Boring Stuff With Python* (ATBS), finishing Chapters 2–4: Flow Control, Boolean Logic, If/Else/Elif, Loops, and Importing Modules.  
+  - Exercises sparked creative project ideas (e.g., “She’s Too Young For You Bro” and "New Phone, Who Dis?")  
+  - Developed stronger comfort in identifying and fixing errors/debugging (e.g., `random.radiant` typo = `randint`)
+
+- 🏗️ **Project Planning & Roadmap Expansion**  
+  - Finalized and committed project folders in MML GitHub repo  
+  - Added README structure for each project; used a consistent format with sections for overview, setup, usage, license, etc.  
+  - Identified next mini Python projects: Unit Converter, Flashcard Quiz, and Number Guessing Game (w/ difficulty settings)  
+  - Working on project-to-portfolio transition via Build With Me series
+
+- 🎓 **Education & Cert Exploration**  
+  - Completed IBM’s *AI for Everyone: Master the Basics* via EdX Verizon Skill Forward  
+  - Explored Oracle’s *Race to Certification 2025* as a potential short-term pivot to gain AI-related credentials for career leverage  
+  - Continuing ATBS Python learning path while balancing project work  
+
+- 🤝 **Collective Work & Life Balance**  
+  - Active role in AI Collective — joined collaborative meetings, helped build framework, and represented MML growth within the team  
+  - Admitted feelings of burnout, imposter syndrome, and being “spread thin” while managing content, study, and real-life responsibilities  
+  - Reinforced intention to “move slower, but smarter” — prioritizing sustainable progress over fast progress
+
+---
+
+### 🔍 Reflections & Lessons Learned
+
+- **Done is better than perfect.** Episode 2 took longer than expected, but publishing it helped clear mental space and build momentum.
+- **Python repetition is building intuition.** Loops, conditionals, and input/output are becoming second nature through both reading and application.
+- **The GitHub repo is becoming a digital portfolio.** Each README, project folder, and structured log is helping showcase the journey with clarity.
+- **Burnout is real.** Slowing down when needed and honoring rest is part of the mastery process. Time is currency — spend it with purpose.
+
+---
+
+### 📌 Focus Going Into August
+
+- Finish 1–2 more Python projects (Unit Converter, Flashcard Quiz, or Bonus)
+- Begin Build With Me: Supervised ML Bot (e.g. Book Recommender)
+- Establish weekly rhythm: 3–5 study sessions + 1 content drop (YouTube, short, or GitHub)
+- Explore first AI certification (Oracle, AWS, or Google) if financially viable
+- Lighten backlog: CapCut editing, newsletter/email automations, content batching
+
+---
+
+### 🧭 Quote of the Month
+> “They can copy your style, but they can’t duplicate your mind.”  
+> — *July reflections*
+
+---
+
+
+## 📅 31 Jul 25
+
+### 🎥 MML Episode 2 (YouTube Vlog)
+- ✅ **Finally completed and published** MML Episode 2.
+- 🎬 Kept CapCut watermark for time’s sake; will explore alternative editing tools/platforms in the future to avoid this issue.
+- 🕒 Although the video was recorded and filmed in mid-June (with the goal of releasing before the end of June), editing delays pushed the release to late July.
+- 😔 Felt slightly disheartened by the time it took to complete the edit — originally hoped to be on Episode 3 by now and showcasing Python/ML projects on the MML YouTube channel.
+- 🙌 Despite the delays, **grateful to have finished and released** the episode.
+- 📲 Shared the video on YouTube and across social media platforms. - https://youtu.be/tCznuJqSE1U 
+- 🔁 Minor hiccup during upload due to video length (just over 15 minutes), but reupload was successful.
+
+
+---
+
+
+## 📅 30 Jul 25
+
+### 🐍 Automate The Boring Stuff With Python (ATBS)
+- 📺 **YouTube Lesson 5:** `if`, `elif`, and `else` Flow Control
+- 🧱 Learned how **blocks** work in flow control:
+  - If the condition is `True`, the code block executes and proceeds to "done".
+  - If the condition is `False`, the code skips that block.
+  - **Tip:** New blocks begin only after statements ending with a colon (`:`).
+- 🧪 Went over multiple control flow examples:
+  - `if` statement (e.g., name check)
+  - `if/else` statement (e.g., password check)
+  - `if/elif/else` statement (e.g., age example)
+    - 💡 Reminder: Revisit "She’s Too Young for You, Bro" game idea.
+- 💡 **Tip:** Multiple `if/elif/else` conditions can be used, but **order matters**.
+- 💭 Explored use of **Truthy and Falsey values** with `input()`:
+  - Created concept for an **interrogation-style game**, inspired by dialogue like:
+    - `"Enter a name." → [9] → "I need a name." → [*silence*] → "I need a name." → [Jeff] → "Thank you for your cooperation."`
+  - May need to explore **string validation** (e.g., distinguishing names from numbers) using `str.isalpha()` or regex. 
+
+
+---
+
+
+## 📅 28 Jul 25
+
+- 🎬 Exported **MML Episode 2** video for final edits.
+  - Final cut was edited using **CapCut**.
+  - Discovered the **CapCut watermark/logo** was automatically included in the exported version.
+  - Currently at a standstill while exploring **workarounds** to remove the watermark without compromising video quality.
+  - Goal: Deliver a clean, professional final upload without branding conflicts.
+
+
+---
+
+
+## 📅 25 Jul 25
+
+- 🛠️ Updated the **ML Mastery Roadmap** to include **Oracle’s Race to Certification** (AI track).
+  - Goal: Use AI certification to support the **job/career search** while continuing to pursue higher-paying ML roles.
+  
+- 🧠 Have not completed much hands-on **coding**, **practice**, or **project work** in recent weeks.
+
+- 🤝 Balancing multiple commitments:
+  - Responsibilities within the **AI Collective/Agency** (tasks, meetings, planning)
+  - Finishing and publishing **MML Episode 2**
+  - Ongoing networking, meetings, and real-life responsibilities
+
+- ⛔ Attempted to leave the AI Collective due to feeling overwhelmed and (personally) not progressing fast enough.
+  - Collective encouraged continued participation:
+    - "Keep shooting, this is the gym."
+    - Emphasized the importance of showing up, even during slower periods.
+  - Reflecting on the timing:
+    - MML and the AI Collective started around the same time — a meaningful coincidence.
+
+- ⚖️ Noticed effects of **spreading too thin**:
+  - Feeling **impatient** due to slow learning/progress
+  - Difficulty maintaining focus and consistency
+  - Juggling passion projects, team roles, and survival simultaneously
+
+- 🧘🏽‍♂️ Personal realization:
+  - Struggle with slowing down after feeling “behind”
+  - High sense of urgency can create **false productivity**
+  - Difference between being **busy** and being **effective**
+  - Relearning the **value of rest** and recognizing the **cost of burnout**
+
+
+---
+
 
 ### 🗓️ 9 Jul 25
 
