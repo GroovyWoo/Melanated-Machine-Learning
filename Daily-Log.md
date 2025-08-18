@@ -4,7 +4,40 @@
 
 
 ## 
+## 🗓️ 17 Aug 2025  
 
+.- **MML One-Page Website / Landing Page Build**:  
+  - Built and worked on first draft of **MML website** using Bolt.  
+  - ✅ Hero section created, but ran into issues with:  
+    - MML logo not displaying correctly.  
+    - Social media accounts not linking as intended.  
+    - Color palette not fully matching brand/logo yet.  
+  - Decided not to publish test version until logo displays properly.  
+
+<img width="1234" height="613" alt="Screenshot 2025-08-17 at 3 03 43 PM" src="https://github.com/user-attachments/assets/1bba34dc-bd0a-47dc-8540-85098839b208" />
+
+<img width="1236" height="653" alt="Screenshot 2025-08-17 at 3 34 02 PM" src="https://github.com/user-attachments/assets/addb47dc-320c-4337-9c93-2089e5dfd289" />
+
+<img width="1229" height="606" alt="Screenshot 2025-08-17 at 4 00 28 PM" src="https://github.com/user-attachments/assets/8eb28662-9cbb-4738-93af-ce9b7e64dd06" />
+
+
+.- **Learning Process**:  
+  - Exploring **vibe coding** workflow — finding it interesting, even with trial & error.  
+  - Planning to test out **integrations** feature to add more functionality.  
+
+.- **Audio/Creative Experiments**:  
+  - Considering testing **AI-generated music** for study sessions + MML branding.  
+  - Previously tried **Suno**, plan to test updated features.  
+  - Also plan to try **Google AI Sandbox** and compare.  
+
+.- **Personal Notes**:  
+  - Still practicing patience with progress speed — learning that steady steps matter.  
+
+.- **Achievements**:  
+  - 🎉 Received **Coursera Google AI Essentials Certificate**.  
+  - Will update resume + LinkedIn to showcase newly verified skillset.  
+
+---
 
 ## 🗓️ 15 Aug 2025  
 
