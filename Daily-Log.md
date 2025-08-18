@@ -5,6 +5,78 @@
 
 ## 
 
+
+## 🗓️ 15 Aug 2025  
+
+.- **Google x Coursera — AI Essentials (Specialization)**:  
+  - Completed **Module 1, Course 4: Use AI Responsibly** — passed quiz.  
+  - Completed **Module 1, Course 5: Stay Ahead of the AI Curve** — passed quiz.  
+  - ✅ Finished all courses within **Module 1**.  
+  - Note: Certificate will not be available until the Coursera free trial ends (per platform policy). Not planning to pay, but still took advantage of the **Google Gemini Pro 3-month promo** to access courses.  
+
+---
+
+## 🗓️ 13 Aug 2025  
+
+.- **Google x Coursera — AI Essentials (Specialization)**:  
+  - Completed **Module 1, Course 3: Discovering the Art of Prompting**.  
+  - Finished lessons and **passed the quiz** at the end of the module.  
+
+---
+
+## 🗓️ 12 Aug 2025  
+
+.- **Google x Coursera — AI Essentials (Specialization)**:  
+  - Continued with **Module 1, Course 2: Maximize Productivity with AI Tools**.  
+  - Completed lessons and **passed the quiz** at the end of the module.  
+
+---
+
+## 🗓️ 10 & 11 Aug 2025  
+
+.- **Google Gemini AI Pro (Trial)**:  
+  - Signed up for Google’s **Gemini AI Pro** 3-month trial before the enrollment deadline.  
+  - Enrolled in related Coursera courses to maximize the trial benefits.  
+
+.- **Coursera — Google AI Essentials (Specialization)**:  
+  - Started the **Google AI Essentials** specialization.  
+  - Completed and **passed Module Course 1: Intro to AI**.  
+  - Currently working through the rest of the specialization to build foundational AI knowledge.  
+
+--- 
+
+## 🗓️ 6 Aug 2025  
+
+.- **Google AI Studio — MML Chatbot Build**:  
+  - Created a first version of the **MML Chatbot** using Google AI Studio.  
+  - Documented the setup process with **screenshots** for future reference.  
+  - Did an initial **screen recording demo** to capture testing and example interactions.  
+  - Considering adding an **audio overdub** to the recording for the **Build With Me** series.  
+  - Plan to revisit later for a more **updated/improved version** once functionality is expanded.  
+
+<img width="841" height="537" alt="Screenshot 2025-08-06 at 4 16 01 PM" src="https://github.com/user-attachments/assets/e670a535-d664-4eac-b635-61ffc851a1d4" />
+
+<img width="842" height="551" alt="Screenshot 2025-08-06 at 4 16 57 PM" src="https://github.com/user-attachments/assets/a646ff02-51b0-4342-ad3d-c01d47b69987" />
+
+<img width="850" height="536" alt="Screenshot 2025-08-06 at 4 17 36 PM" src="https://github.com/user-attachments/assets/2cb3d12a-287e-47d4-84d7-a1e6632e8a06" />
+
+---
+
+## 🗓️ 5 Aug 2025  
+
+.- **Automate The Boring Stuff With Python**:  
+  - YouTube Lesson 6 → *while loops*, and the **break** and **continue** statements.  
+  - Continuing with YouTube lessons until catching up with Chapter 3 (*Functions*) in the ebook.  
+
+.- **Practice & Notes**:  
+  - Learned that each time code runs through a loop, it’s called an **iteration**.  
+  - Reviewed difference between `if` statements (one-time check) vs `while` loops (continuous until condition changes).  
+  - **Exercise — "Your Name" loop:** program kept looping until the user entered "your name," at which point it printed a "thank you" message. → reinforced **input validation**.  
+  - Practiced **infinite loops** with `break` and `continue`.  
+  - Confirmed that pressing **Ctrl + C** (or **Cmd + C** on Mac) interrupts loops with a `KeyboardInterrupt`.  
+
+---
+
 ## 📆 July 2025 Recap & Reflection
 
 ### 🧠 Highlights & Accomplishments
