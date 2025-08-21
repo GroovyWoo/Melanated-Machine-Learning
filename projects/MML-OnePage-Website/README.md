@@ -40,7 +40,7 @@ This is still **work-in-progress** (WIP). The current version is functional but 
 
 ## 📂 Project Structure
 
-```
+```bash
 MML-OnePage-Website/
 ├── index.html      # Main HTML file
 ├── style.css       # Stylesheet
