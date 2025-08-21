@@ -2,9 +2,45 @@
 
 ##
 
+## 21 Aug 25  
+- Continued **Oracle Cloud Infrastructure AI Foundations Course** within the **OCI AI Foundations training/learning path**.  
+  - Completed lessons:  
+    - *Deep Learning Foundations*  
+    - *Generative AI and LLM Foundations*  
+  - Now halfway through Course 1 (of 5) in the Learning Path.  
 
-## 
-## 🗓️ 17 Aug 2025  
+- Still unable to integrate **MML Logo** into the one-page website/landing page.  
+  - Attempted updates + saves, but failed (likely due to token issue).  
+  - Planning to take the **manual coding approach** next time.  
+  - Page is otherwise ready to launch — just need the logo fix.  
+
+- Reflection: *Vibe coding is killing the vibe… pun intended 😅*.  
+
+---
+
+## 20 Aug 25  
+- Signed up and registered for Oracle’s **Race to Certification 2025** program via Oracle University.  
+  - Free certification window: *July 1 – October 31, 2025*.  
+  - Program includes OCI, AI, Multicloud, & Data learning paths.  
+  - Will focus on **AI**, as certification will support career/job growth while continuing to work toward ML Engineer/Specialist goals.  
+  - Began **OCI AI Foundations Training** (Learning Path). Completed first two lessons:  
+    - *AI Foundations*  
+    - *Machine Learning Foundations*  
+
+- Prepping for **Colorado Startup Week (mid-Sept)** with AI Collective/Team. Finalizing info + media for promo run.  
+
+- Reminder to stay **focused and balanced**. Need to pace work/study and take breaks to avoid burnout (again 😒).   
+
+---
+
+## 19 Aug 25  
+- Tried to finish updating MML landing page.  
+- Ran out of daily tokens while attempting to integrate the MML logo into the page.  
+- Thought it might have helped to code more efficiently and manually embed the logo into the code (something to revisit later).  
+
+---
+
+## 🗓️ 17 Aug 25  
 
 .- **MML One-Page Website / Landing Page Build**:  
   - Built and worked on first draft of **MML website** using Bolt.  
@@ -39,7 +75,7 @@
 
 ---
 
-## 🗓️ 15 Aug 2025  
+## 🗓️ 15 Aug 25  
 
 .- **Google x Coursera — AI Essentials (Specialization)**:  
   - Completed **Module 1, Course 4: Use AI Responsibly** — passed quiz.  
@@ -49,7 +85,7 @@
 
 ---
 
-## 🗓️ 13 Aug 2025  
+## 🗓️ 13 Aug 25  
 
 .- **Google x Coursera — AI Essentials (Specialization)**:  
   - Completed **Module 1, Course 3: Discovering the Art of Prompting**.  
@@ -57,7 +93,7 @@
 
 ---
 
-## 🗓️ 12 Aug 2025  
+## 🗓️ 12 Aug 25  
 
 .- **Google x Coursera — AI Essentials (Specialization)**:  
   - Continued with **Module 1, Course 2: Maximize Productivity with AI Tools**.  
@@ -65,7 +101,7 @@
 
 ---
 
-## 🗓️ 10 & 11 Aug 2025  
+## 🗓️ 10 & 11 Aug 25  
 
 .- **Google Gemini AI Pro (Trial)**:  
   - Signed up for Google’s **Gemini AI Pro** 3-month trial before the enrollment deadline.  
@@ -78,7 +114,7 @@
 
 --- 
 
-## 🗓️ 6 Aug 2025  
+## 🗓️ 6 Aug 25  
 
 .- **Google AI Studio — MML Chatbot Build**:  
   - Created a first version of the **MML Chatbot** using Google AI Studio.  
@@ -95,7 +131,7 @@
 
 ---
 
-## 🗓️ 5 Aug 2025  
+## 🗓️ 5 Aug 25  
 
 .- **Automate The Boring Stuff With Python**:  
   - YouTube Lesson 6 → *while loops*, and the **break** and **continue** statements.  
