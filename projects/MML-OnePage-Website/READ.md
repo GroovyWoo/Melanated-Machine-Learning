@@ -40,12 +40,13 @@ This is still **work-in-progress** (WIP). The current version is functional but 
 
 ## 📂 Project Structure
 
+```
 MML-OnePage-Website/
 ├── index.html      # Main HTML file
 ├── style.css       # Stylesheet
 ├── assets/         # Images, logo, and media
 └── README.md       # Project documentation 
-
+```
 
 ---
 
