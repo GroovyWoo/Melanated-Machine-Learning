@@ -2,6 +2,32 @@
 
 ##
 
+## 30 Aug 25  
+- Took **Oracle’s OCI AI Foundations Associate Certification Practice Exam**. Failed 1st attempt.  
+- Most incorrect answers came from situations where I “knew” the answer but second-guessed myself, or was stuck between two close options.  
+- Out of 40 questions, about 4–5 I wasn’t sure about at all and just guessed.  
+- Realized I should’ve taken the practice test sooner while the info was fresher in my mind.  
+- Hour-long tests make me a bit wary, need to work on pacing and confidence under timed conditions.  
+
+---
+
+## 26 Aug 25  
+- Might have to start over or forget about **Bolt** and use something else (maybe **Loveable**). Running into “too many” issues trying to complete a simple task. Debating whether to remove the **image in the Hero section** altogether and just publish.  
+- Tried testing **Google/Gemini’s new Nano Banana feature**, but kept encountering errors. Tested with both random internet images and free/commercial-use image sites — same result. Noticed other forums reporting similar issues, so I’ll try again another time.  
+
+---
+
+## 23 Aug 25  
+- Continued **Oracle Cloud Infrastructure AI Foundations Course** within OCI AI Foundations training/learning path.  
+- Completed lessons on:  
+  - OCI AI Portfolio  
+  - OCI Generative AI Service  
+  - OCI AI Services  
+- In the Generative AI Service section, one example used a **Top 10 Streamed Movies** dataset with an APEX interactive report to fetch details. This sparked an idea to create a similar ML project/model focused on **Black (Melanated) films, TV shows, and books** (with music as a possible later extension).  
+- **Completed the Oracle Cloud Infrastructure (OCI) AI Foundations Course** ✅. The Skills Check quizzes after each lesson/module were helpful for reinforcing knowledge.  
+
+---
+
 ## 21 Aug 25  
 - Continued **Oracle Cloud Infrastructure AI Foundations Course** within the **OCI AI Foundations training/learning path**.  
   - Completed lessons:  
