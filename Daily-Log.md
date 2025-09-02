@@ -2,6 +2,41 @@
 
 ##
 
+## 📌 August 2025 Recap & Reflections  
+
+### ✅ Progress & Wins  
+- Continued building consistency with **Oracle’s Race to Certification 2025 (AI Track)**.  
+  - Completed the **OCI AI Foundations course** (covered AI, ML, DL, GenAI, OCI AI Services, and portfolio tools).  
+  - Earned certificate of completion, which adds credibility toward resume/LinkedIn.  
+- Explored project ideas inspired by Oracle examples — such as creating an ML project featuring **melanated films, TV shows, and books** (future project direction).  
+- Experimented with building the **MML one-page website/landing page**. Learned about vibe coding, integrations, and embedding elements like logos/socials.  
+- Completed **Google x Coursera AI Essentials specialization** (through trial period), adding another credential to showcase.  
+- Created a **MML chat bot with Google AI Studio**, capturing the process with screenshots and screen recordings for future content (Build With Me series).  
+- Released **MML Episode 2** on YouTube despite editing struggles — a major milestone in documenting the journey.  
+
+### ⚠️ Challenges  
+- **Website struggles**: Difficulty embedding MML logo and publishing due to coding/token limitations. Debating whether to simplify design or pivot tools (Bolt, Loveable, or alternatives).  
+- **Gemini AI Nano Banana feature** testing resulted in repeated errors (likely a wider platform issue).  
+- **Certification prep**: First attempt at Oracle OCI AI Foundations Associate practice exam ended in a fail. Main challenges: second-guessing answers, timing fatigue, and knowledge recall.  
+- **Time & energy balance**: Still adjusting between AI Collective commitments, personal MML projects, certification study, transitioning into a higher paying job/role, and content creation. Burnout tendencies reappeared when trying to juggle everything at once.  
+
+### 💡 Lessons Learned  
+- **Execution > perfection**: Even with editing hiccups (CapCut watermark) and delays, publishing Episode 2 was more valuable than waiting for the “perfect” version.  
+- **Test early, test often**: Practice exams are best taken earlier in the study cycle to identify gaps when the content is fresh.  
+- **Pacing matters**: Marathon mindset > sprinting. Daily consistency, even in small steps, prevents burnout.  
+- **Balance of tools**: Vibe coding tools save time, but sometimes manual coding may be more reliable. Need to decide when to automate vs. when to roll up sleeves.  
+
+### 🎯 Focus for September  
+- Retake **OCI AI Foundations Associate certification** with stronger prep (targeting a pass).  
+- Finalize and **publish MML landing page** — even if simplified at first, then improve iteratively.  
+- Prep for **Colorado Startup Week presentation** with the AI Collective (balance polish with storytelling).  
+- Start early planning for **MML Episode 3** and potential Build With Me project walkthroughs.  
+- Recommit to **consistent ML practice** (Python projects, Automate the Boring Stuff, Kaggle, etc.) alongside certification prep.  
+
+**Overall:** August was a month of **persistence and patience**. Progress wasn’t always smooth, but milestones were still hit — certifications, (MML Vlog) Episode 2 release, and completion of major courses. The foundation is strengthening, even if momentum felt slower at times. September will be about converting that groundwork into **tangible wins** (certification pass, site launch, public showcase).  
+
+---
+
 ## 30 Aug 25  
 - Took **Oracle’s OCI AI Foundations Associate Certification Practice Exam**. Failed 1st attempt.  
 - Most incorrect answers came from situations where I “knew” the answer but second-guessed myself, or was stuck between two close options.  
