@@ -2,6 +2,49 @@
 
 ##
 
+## 🌞 Summer 2025 Recap & Reflections (June – August)  
+
+### ✅ Key Progress & Milestones  
+- **Content Creation & Branding**  
+  - Launched and released **MML Episode 2** on YouTube (despite editing/watermark challenges), proving consistency and persistence in documenting the ML journey.  
+  - Continued progress on the **MML one-page website/landing page**, experimenting with vibe coding, integrations, and logo/social embedding.  
+
+- **Learning & Certifications**  
+  - Completed **Google AI Essentials specialization (Coursera)** — added certificate for resume/LinkedIn credibility.  
+  - Enrolled in and completed the **Oracle Cloud Infrastructure AI Foundations course** (part of Race to Certification 2025 program). Built a solid base in AI, ML, DL, Generative AI, and OCI AI services.  
+  - Explored **Google AI Studio** by building a MML chatbot prototype, capturing process for future Build With Me content.  
+  - Continued with **Automate the Boring Stuff with Python**, progressing through flow control, loops, and input validation (early Python project ideas formed along the way).  
+
+- **Community & Opportunities**  
+  - Maintained active role in the **AI Collective**, helping prep for **Colorado Startup Week (Sept)** presentation.  
+  - Balanced project building, certification study, and content creation while staying engaged with team collaboration.  
+
+### ⚠️ Challenges Faced  
+- **Editing & Publishing**: Episode 2 took longer than expected to finish due to editing/time management — reminder that done is better than perfect.  
+- **Website struggles**: Integration issues (logo, Hero section, publishing delays) caused frustration, highlighting the need for both patience and better tooling.  
+- **Certification hurdles**: First attempt at the Oracle practice exam ended in a fail, largely due to second-guessing and timing fatigue. Reinforced need for earlier test prep.  
+- **Balance & Burnout**: Managing personal MML projects, Collective commitments, financial hardships, and certifications simultaneously led to spreading thin at times.  
+
+### 💡 Lessons Learned  
+- **Execution > Perfection**: Publishing imperfect work still creates progress and momentum.  
+- **Iterative Building**: Projects (like the landing page) don’t have to be final on day one — launch, then refine.  
+- **Test Early**: Certification prep benefits from taking practice exams sooner, while knowledge is fresh.  
+- **Patience & Rest**: Growth is compounding, but burnout slows everything. Balance small daily steps with recovery.  
+- **Stepping Stones Matter**: AI/ML certifications may not be the ultimate goal, but they strengthen credibility and open doors while building toward ML Engineer/Scientist roles.  
+
+### 🎯 Focus Going Forward (Fall 2025)  
+- **Certification Goal**: Retake and pass **OCI AI Foundations Associate** practice exam, then take and pass final exam.  
+- **Public Presence**: Finalize and publish **MML website** (even simplified, with room for iterations).  
+- **Collective Impact**: Deliver a strong **Colorado Startup Week** presentation with the AI Collective.  
+- **Projects & Practice**: Expand MML projects on GitHub (ML recommendations, small games, chatbot improvements).  
+- **Content**: Plan and begin work on **MML Episode 3** and Build With Me walkthroughs, and other related projects.  
+
+**Overall Reflection (Summer 2025):**  
+This quarter was about **laying foundations, experimenting, and learning patience**. Certifications, projects, and content releases each came with hurdles, but progress continued despite setbacks. The journey is starting to show tangible outcomes (certificates, videos, projects), setting up **Fall 2025 as a season of execution and showcase**. The big picture is clear: build credibility, strengthen skills, and keep momentum toward the ultimate ML Engineer/Scientist path...  
+
+
+---
+
 ## 📌 August 2025 Recap & Reflections  
 
 ### ✅ Progress & Wins  
