@@ -1,6 +1,28 @@
 
 
-##
+## 
+
+## 📅 7 Sept 25  
+
+- Recorded **audio** for the YouTube video, part of the **Build With Me** series.  
+- Planning to adjust/adapt workflow with different tools for smoother production.  
+- Noted that video editing and visual media side of things are **not my strong suit**, but continuing to improve with practice.  
+
+---
+
+## 📅 4 Sept 25  
+
+- Tested **Nano Banana** in Google’s AI Studio → created a few images 🥷🏽 .  
+- Used **Veo (2)** to generate a short video.  
+- Captured screenshots and screen recordings during the process for reference.
+
+![MelanatedNinja, Black Kimono -gemini nano banana 2](https://github.com/user-attachments/assets/475e9584-1d12-4e0c-8fda-d817dcf37fec)
+
+
+![MelanatedNinja, Green Kimono -gemini nano banana](https://github.com/user-attachments/assets/01d6cb84-60bf-4606-8ae5-bfe63b0f10d7)
+
+
+---
 
 ## 🌞 Summer 2025 Recap & Reflections (June – August)  
 
