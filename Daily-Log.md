@@ -2,6 +2,29 @@
 
 ## 
 
+
+## 📅 10 Sept 25  
+
+- Received **Google AI Pro trial**.  
+- Created a few images in **Nano Banana** — experimented with a **video game style**.  
+- Planning to test and explore how to use **Veo** with these images to bring them to life as short video clips.
+
+<img width="1024" height="1024" alt="Gemini_Generated_Image_p8e0vip8e0vip8e0" src="https://github.com/user-attachments/assets/3a0ffe00-f2a1-477e-a181-a4c5e62fd2c9" />
+
+<img width="1024" height="1024" alt="Gemini_Generated_Image_zeu51zeu51zeu51z" src="https://github.com/user-attachments/assets/c0165afe-09b3-4bd5-9460-c7437e78b8a1" />
+
+
+
+---
+
+## 📅 9 Sept 25  
+
+- Revisited and reviewed the first **3 of 8 modules** in the **OCI AI Foundations** course.  
+- Focused on studying and updating notes as a way to refresh memory.  
+- Preparing to retake the **practice exam** and then move on to the **actual certification exam**.  
+
+---
+
 ## 📅 7 Sept 25  
 
 - Recorded **audio** for the YouTube video, part of the **Build With Me** series.  
