@@ -2,6 +2,25 @@
 
 ## 
 
+## 📅 13 Sept 25  
+
+- Experienced some hiccups / hallucinations with **Gemini (Nano Banana)** visuals.  
+- Possible prompt issue, though less likely (still worth refining prompt strategy).  
+- Hit the usage limit with **Veo** — only able to generate 3 videos.  
+- Video results were underwhelming; need to step up prompt quality.  
+- Noticed little to no difference between **Veo 2** and **Veo 3**.  
+- Suspect I may still be on Veo 2 instead of Veo 3 (Pro version supposedly includes Veo 3 — one of the main reasons for using the trial).
+
+---
+
+## 📅 12 Sept 25  
+
+- Finished and uploaded video for the **MML YouTube channel**.  
+- First video in the **Build With Me** series.  
+- Showcased testing with **Nano Banana** (Google AI Studio) and **Veo** for image + video generation.
+- MML Vision: https://youtu.be/BccVboPFpaY 
+
+---
 
 ## 📅 10 Sept 25  
 
