@@ -94,6 +94,20 @@ curl -X POST "http://127.0.0.1:8000/predict" \
 
 ---
 
+## Screenshots of Browser view during the process 
+ - Pre Post
+<img width="1188" height="599" alt="Screenshot 2025-10-01 at 4 08 02 AM" src="https://github.com/user-attachments/assets/b5081f3d-a034-4314-b547-af7274d229cb" />
+
+
+ - Trying It Out
+<img width="1180" height="633" alt="Screenshot 2025-10-01 at 4 09 12 AM" src="https://github.com/user-attachments/assets/97e3c87b-3957-4963-9929-94f8c79513b6" />
+
+
+ - Curl Response 
+<img width="1156" height="650" alt="Screenshot 2025-10-01 at 4 12 10 AM" src="https://github.com/user-attachments/assets/97dc5141-b6c7-4cc4-9562-aed97e359373" />
+
+---
+
 ## 📊 Skills Learned
 •	Setting up Python virtual environments 
 
