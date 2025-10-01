@@ -1,6 +1,25 @@
 
 
-## 
+##
+
+
+---
+
+## 17 Sept 25  
+- Presented during **Colorado Startup Week** 🏔️.  
+- Served as **emcee** for the first event, helping to guide flow and engage the audience.  
+- Attended a second event focused on **highlighting & networking** with the AI Collective/Team, and supporting our partner’s **book launch**.  
+- Valuable experience in both public speaking and building professional connections. There's an art to storytelling. 
+
+---
+
+## 14 Sept 25  
+- Revisited and worked through **2–3 more modules** of the OCI AI Foundations course.  
+- Reviewed concepts to strengthen understanding and reinforce memory retention.  
+- Added and updated notes to capture details I previously missed.  
+- Felt more confident as repetition helped solidify key points from earlier lessons.  
+
+---
 
 ## 📅 13 Sept 25  
 
