@@ -2,10 +2,38 @@
 
 ##
 
+## 📝 30 Sept 25  
+
+- Started my **first ML project using JSON** — unintentionally pulled an **all-nighter**, working into the next morning.  
+- This was my **2nd time setting up virtual environments** (1st time was with JSON Prompt Pack for image/content generation).  
+- Went back and forth between **macOS terminal** and **VS Code**.  
+  - Rough start due to **directory and project folder location issues**, which took longer than intended to fix.  
+  - Stayed disciplined and kept the **rhythm** despite early roadblocks.  
+- Officially **started Project Iris Classifier**:  
+  - Successfully trained and tested the data.  
+  - Reviewed and understood the results.  
+- Slowly becoming more familiar with **datasets, ML models, and the overall workflow**.  
+- This feels like it might be my **first real ML project milestone**. 🚀  
+
 ---
 
+## 📝 27 Sept 25  
+- Finished reviewing/watching the **last 2 modules** of the **OCI AI Foundations course**.  
+- Took the **practice exam** again and **passed with 75%** (much better than previous attempt).  
+  - Missed 3–4 solid answers I “knew” but ended up getting wrong.  
+- Debating whether to retake the practice exam once more or just move forward to the **official certification exam**.  
+- Ready to finally be **certified** , so I can level up **career-wise and financially**.  
 
+---
 
+## 📝 25 Sept 25  
+- Participated in **Problem to Prototype workshop (in-person)** using **Lovable**.  
+  - Considering rebuilding the **MML landing page** on Lovable if I can’t finalize the **logo embedding issue** on the Bolt site/platform.  
+  - For now, the logo is the only blocker — everything else can be added later.  
+- Workshop was hosted by the same team that presented during **Colorado Startup Week**.  
+- Team I was a part of came in **2nd place (honorable mention)**.  
+  - Interesting collaborative effort overall.  
+- Personal note: I didn’t really use Lovable beyond logging in during the workshop, lol — but I plan to explore it more deeply for another idea/project in the future.  
 
 ---
 
