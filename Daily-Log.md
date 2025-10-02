@@ -2,6 +2,39 @@
 
 ##
 
+---
+
+
+
+
+---
+
+## 📝 24 Sept 25  
+- Started to work on **JSON project/exercise**.  
+- Went back and forth between **macOS Terminal** and **VS Code**.  
+- Created **JSON prompts** and a **prompt manager**, forming the beginnings of a **prompt infrastructure**.  
+- Learned how to **create a virtual environment** in macOS Terminal.  
+- Curated a list of multiple **JSON templates**, then tested a **random feature** (like rolling dice to see which prompt appears).  
+  - Categories tested: blogs, image design, copywriting, and more.  
+- Came up with the **MML Prompt Vault/Pack** idea.  
+  - Currently curating:  
+    - Basic JSON prompts  
+    - **MML JSON Prompts (MML Originals)**  
+
+---
+
+## 📝 23 Sept 25
+- Completed one module of the OCI AI Foundations course.
+- Attempted to continue with the remaining two modules, but felt mentally drained/physically tired and couldn’t stay focused.
+- Decided to pause and prioritize rest over forcing progress, in order to come back refreshed.
+
+---
+
+## 19 Sept 25  
+- Continued **self-study** by reading up on **JSON** and its role in ML workflows.  
+- Realized I had previously overlooked its importance in data formatting, API responses, and model deployment.  
+- Created a **personal guide and breakdown** for better understanding and reference.  
+- Considering creating a few **JSON-related projects** to strengthen skills and build portfolio examples that connect JSON with ML use cases.  
 
 ---
 
