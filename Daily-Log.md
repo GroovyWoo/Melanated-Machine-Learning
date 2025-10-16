@@ -2,7 +2,17 @@
 
 ##
 
-## 🧠 11 Oct 2025  
+## 🧠 12 Oct 25  
+
+- **Completed the first module** of the *OCI Generative AI Course*.  
+- Took the **Skill Check Quiz** immediately after finishing the module and **passed successfully**.  
+- Feeling more confident and comfortable navigating the course structure and pacing the learning process.  
+
+🪴 *Overall:* Smooth progress through the certification path — building consistency and reinforcing foundational understanding before advancing to deeper Generative AI concepts.
+
+---
+
+## 🧠 11 Oct 25  
 
 - Began the **Oracle Cloud Infrastructure (OCI) Generative AI Course**.  
   - Completed about **half of the first module**.  
