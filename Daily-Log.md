@@ -2,6 +2,27 @@
 
 ##
 
+## 🧠 7 Oct 2025  
+
+- Took the **Oracle Cloud Infrastructure (OCI) AI Foundations Exam**.  
+  - First attempt: **63% (failed — passing score 65%)**.  
+  - After a short break, reattempted and **passed with 75%**.  
+  - Despite being surprisingly mentally and physically tired the first time around (yawning, nearly dozing off mid-test), the nerve that was struck allowed me to push through and complete the reattempt successfully.  
+
+- Reflections on the exam:  
+  - Noticed a heavier emphasis on **Oracle-specific features and services** compared to AI/ML fundamentals found in the practice tests — expected, but worth noting.  
+  - Could not review incorrect answers after submission, which made retaking the test more challenging.  
+  - Some repeat questions appeared during the second attempt; required deciding whether to trust previous answers or adjust based on reasoning.  
+
+- **Outcome:** Passed and certified — planning to add to **resume and LinkedIn profile**.  
+  - Immediately enrolled in the **next Oracle course** within the program.  
+  - Goal: Complete and pass the **next certification exam before the end of October**, as the free certification window closes soon.  
+
+🪴 *Overall:* A true lesson in perseverance and composure under fatigue. Each attempt builds resilience and brings me closer to mastering the AI certification path.
+
+
+---
+
 ## 🧠 5 Oct 25  
 
 - Began working on the **MML Prompt Pack**, planning rollout soon.  
