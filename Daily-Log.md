@@ -2,6 +2,25 @@
 
 ##
 
+## 🧠 5 Oct 25  
+
+- Began working on the **MML Prompt Pack**, planning rollout soon.  
+  - Outlined early ideas for **social media integration and content expansion**.  
+  - Getting more comfortable with reading and recording longer posts while filming — building on-camera presence and confidence.  
+  - Exploring how to **repurpose long-form content into short clips** for better reach and engagement across platforms.  
+
+- Retook the **OCI AI Foundations Practice Exam** — scored **88%**, a strong improvement from the first two attempts.  
+  - After reviewing missed questions, realized most were avoidable errors — likely fatigue from working late.  
+  - Confident and ready for the **official certification exam** this week.  
+
+- Planning to begin the **OCI Generative AI course and certification exam** after completing the current one.  
+  - Goal: Complete both before the **program deadline (Oct 31, 2025)**.  
+
+🪴 *Overall:* Strong momentum to start October — clear focus on certifications, skill expansion, and content creation for MML brand awareness.  
+
+
+---
+
 # 🌍 September 2025 – Recap & Reflection  
 
 September was a month of **breakthroughs, consistency, and public presence**, though not without challenges. It represented both **internal growth** (mastering technical skills) and **external visibility** (presenting in community spaces).  
