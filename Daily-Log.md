@@ -2,7 +2,21 @@
 
 ##
 
-## 🧠 7 Oct 2025  
+## 🧠 11 Oct 2025  
+
+- Began the **Oracle Cloud Infrastructure (OCI) Generative AI Course**.  
+  - Completed about **half of the first module**.  
+  - Took detailed notes throughout the session for better retention.  
+
+- While studying, came up with several **creative ideas for MML (Vlog) Episode 3**.  
+  - Plan to include **cultural examples and references** to make the episode both fun and educational.  
+  - May blend real-world AI concepts with **storytelling elements** to enhance engagement.  
+
+🪴 *Overall:* A productive start — progress in certification learning while planting seeds for new MML content that connects technical education with creative expression.
+
+---
+
+## 🧠 7 Oct 25  
 
 - Took the **Oracle Cloud Infrastructure (OCI) AI Foundations Exam**.  
   - First attempt: **63% (failed — passing score 65%)**.  
