@@ -2,6 +2,28 @@
 
 ##
 
+## 🧠 22 Oct 2025  
+
+- Finished the remaining videos within the module and completed the **Skills Check quiz**, officially finishing the course.  
+- Watched the **Prepare for Certification** module — covered recommended prerequisites, topic areas, and weighted percentages for the exam.  
+- Reviewed the **Hands-on Labs overview** and a few sample practice questions; confirmed that all questions will be multiple choice, similar to the previous certification exam.  
+- Plan to review notes thoroughly before taking the **practice exam**.  
+- Depending on the results, will either retake the practice exam or proceed directly to the **official certification exam**.  
+- Goal is to complete the exam before the end of the week to have the final week of the month focused on **documentation updates** — resume, LinkedIn, and overall professional alignment.
+
+---
+
+## 🧠 20 Oct 2025  
+
+- Watched the first video within the module — focused on **Oracle Generative AI Agent**.  
+- Insightful breakdown of the agent’s structure and functionality within the Oracle platform.  
+- With AI Agents becoming more widely discussed, I’ve more so been curious about how to **use and train them effectively** — not just for personal use, but for broader applications that can help others.  
+- Also reflecting on the **ethical and security implications** of agents interacting and working with each other — important to understand both the benefits and the risks.
+
+🪴 *Overall:* This section feels like an essential piece of the AI landscape worth diving deeper into.
+
+---
+
 ## 🧠 19 Oct 2025  
 
 - Finished the module and completed the **Skills Check quiz** afterwards.  
