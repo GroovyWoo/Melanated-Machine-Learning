@@ -2,6 +2,26 @@
 
 ##
 
+## 🧠 14 Oct 25  
+
+- Set aside **30 minutes** to continue working through the same module in the *OCI Generative AI Course*.  
+- Observed **more demo-based examples** being shown for each topic -including *OCI Gen AI*, *Chat Models*, *Gen AI Inference API*, and *Embeddings*.  
+- The **hands-on visuals and demonstrations** made the learning experience more engaging and practical, helping reinformce core concepts.  
+
+🪴 *Overall:* Gradually building confidence and familairity with Oracle's Gen AI tools through consistent, focused study sessions. 
+
+---
+
+## 🧠 13 Oct 25  
+
+- **Started the second module** of the *OCI Generative AI Course*.  
+- Took **more detailed notes** this time around compared to the previous course/learning path - the material feels more **in-depth and applicable**, which made note-taking worthwhile.  
+- Noticed that **progress felt slower** due to the added time spent documenting notes and insight, though it could be a positive trade0off for stonger rentetnion in the long run. 
+
+🪴 *Overall:* Balancing depth and pace — prioritizing comprehension and long-temr understanging over speed, even if progress feels gradual.
+
+---
+
 ## 🧠 12 Oct 25  
 
 - **Completed the first module** of the *OCI Generative AI Course*.  
