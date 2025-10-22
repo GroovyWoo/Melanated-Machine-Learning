@@ -2,6 +2,38 @@
 
 ##
 
+## 🧠 19 Oct 2025  
+
+- Finished the module and completed the **Skills Check quiz** afterwards.  
+- Now down to the **last module** within the course — currently sitting at **90% completion** overall.  
+- Planning to wrap up the course soon and move toward the **practice exam** and **final certification exam** to close out the month strong.  
+
+🪴 *Overall:* Steady momentum — almost at the finish line for the OCI Generative AI certification.
+
+---
+
+## 🧠 18 Oct 2025  
+
+- Spent time studying and made it **halfway through the current module**, reaching **80% total course completion** for the *OCI Generative AI Course*.  
+- The material is starting to click more as I continue progressing through the lessons.  
+- Staying consistent with the goal of finishing the course soon and preparing for the **practice exam** before taking the **final certification exam**.  
+
+🪴 *Overall:* Steady progress — pacing well toward completing the course and earning the second certification before the end of the month.
+
+---
+
+## 🧠 16 Oct 2025  
+
+- Finished the **2nd module** of the *OCI Generative AI Course* and completed the **Skills Check Quiz** afterwards.  
+- The module took **longer than expected**, largely because of the **detailed notes** taken compared to the previous learning path (for the first certification).  
+- Currently **70% through the first course**, with *2 modules remaining* before moving on to the practice exam and final certification exam.  
+- With **less than two weeks left** in the Oracle Race to Certification program, planning to take the **practice exam early next week** to leave time for the final test before the deadline.  
+- Feeling motivated — earning **two certifications** will be a solid confidence boost and career milestone.  
+
+🪴 *Overall:* Progress may be slower due to in-depth studying, but the deeper understanding gained feels worthwhile for long-term growth.
+
+--- 
+
 ## 🧠 14 Oct 25  
 
 - Set aside **30 minutes** to continue working through the same module in the *OCI Generative AI Course*.  
