@@ -2,7 +2,23 @@
 
 ##
 
+## 🧠 28 Oct 25  
 
+- **2nd attempt at OCI Generative AI Certification Exam — passed with 75%!**  
+- Came into the retake much more confident and focused, especially knowing the month (and free certification window) was coming to an end.  
+- Grateful to now have **two certifications** completed and officially under my belt.  
+- Planning to shift focus toward **Google Cloud’s Developer Program and Machine Learning Engineer pathways** moving forward, since they align closely with long-term ML goals.  
+- Immediate focus: solidify **higher-paying AI/ML-related roles** to build financial stability and momentum.  
+- Next step — update **resume (and LinkedIn of course)** with new certifications and skill achievements.  
+
+---
+
+## 🧠 27 Oct 25  
+
+- Took the **OCI Generative AI Certification Exam**, scored **60%**.  
+- Found the exam **slightly more challenging than expected**, especially due to the **wording of certain questions**, which caused second-guessing on topics that initially felt clear.  
+- Realized how **small details or phrasing differences** can shift an answer from correct to incorrect.  
+- Although the result was disappointing, it provided valuable insight into how Oracle frames questions — something to keep in mind for the **next attempt**.  
 
 ---
 
