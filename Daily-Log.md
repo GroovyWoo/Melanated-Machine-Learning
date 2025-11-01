@@ -2,7 +2,32 @@
 
 ##
 
-## 🧠 22 Oct 2025  
+
+
+---
+
+## 🧠 25 Oct 25  
+
+- Retook the **OCI Generative AI Practice Exam** and scored **98%** — a major improvement from the previous attempt.  
+- Reviewing the **practice questions**, especially the ones previously answered incorrectly, helped significantly.  
+- Preparing **mentally and strategically** for the **Official/Final Certification Exam**.  
+- Confident about passing on the **first attempt**, but will stay mindful of questions focused on **Oracle Cloud Infrastructure (OCI) platform-specific features** versus general AI/ML concepts.  
+- Also noted that the **final exam doesn’t allow reviewing incorrect answers**, so accuracy and focus will be key.
+
+---
+
+## 🧠 24 Oct 25  
+
+- Studied notes prior to taking the **OCI Generative AI Practice Exam** — scored **62%** (passing score: 68%).  
+- Performed better than expected based on the questions provided, though fell just short of passing.  
+- Reviewed all incorrect answers; identified **4–5 questions** that should have been correct and would have made the difference in passing.  
+- Noted several new or unfamiliar questions and terminology that didn’t appear (or weren’t clearly highlighted) during the course — possibly covered within the **Hands-on Labs** section.  
+- Planning to **review weak areas** and retake the practice exam before attempting the **official certification exam**.
+
+
+---
+
+## 🧠 22 Oct 25  
 
 - Finished the remaining videos within the module and completed the **Skills Check quiz**, officially finishing the course.  
 - Watched the **Prepare for Certification** module — covered recommended prerequisites, topic areas, and weighted percentages for the exam.  
@@ -13,7 +38,7 @@
 
 ---
 
-## 🧠 20 Oct 2025  
+## 🧠 20 Oct 25  
 
 - Watched the first video within the module — focused on **Oracle Generative AI Agent**.  
 - Insightful breakdown of the agent’s structure and functionality within the Oracle platform.  
@@ -24,7 +49,7 @@
 
 ---
 
-## 🧠 19 Oct 2025  
+## 🧠 19 Oct 25  
 
 - Finished the module and completed the **Skills Check quiz** afterwards.  
 - Now down to the **last module** within the course — currently sitting at **90% completion** overall.  
@@ -34,7 +59,7 @@
 
 ---
 
-## 🧠 18 Oct 2025  
+## 🧠 18 Oct 25  
 
 - Spent time studying and made it **halfway through the current module**, reaching **80% total course completion** for the *OCI Generative AI Course*.  
 - The material is starting to click more as I continue progressing through the lessons.  
@@ -44,7 +69,7 @@
 
 ---
 
-## 🧠 16 Oct 2025  
+## 🧠 16 Oct 25  
 
 - Finished the **2nd module** of the *OCI Generative AI Course* and completed the **Skills Check Quiz** afterwards.  
 - The module took **longer than expected**, largely because of the **detailed notes** taken compared to the previous learning path (for the first certification).  
