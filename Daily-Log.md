@@ -2,6 +2,21 @@
 
 ##
 
+## 📅 19 Nov 25 
+
+- **Tested OBS and full equipment setup** for the first time.  
+- Made several short test videos to get familiar with:  
+  - Switching scenes  
+  - Camera angles  
+  - Screen recording  
+  - Vlog-style test runs  
+- Practiced the script several times to get into a better flow and rhythm on camera.  
+- Interesting experience realizing how different it feels to run all the tools **for myself**, compared to when I worked behind the scenes as a **show runner/producer** for others.  
+  - Still getting used to being in front of the setup *and* managing the tech.  
+- Overall, strong step forward in refining the recording workflow and building confidence with the tools.
+
+---
+
 ## 📅 6 Nov 25 
 
 - Participated in a **Building LLM Automations** activity.  
