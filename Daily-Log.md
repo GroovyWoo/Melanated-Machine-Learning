@@ -2,6 +2,16 @@
 
 ##
 
+## 📅 23 Nov 25 
+
+- Attempted multiple times to record the next vlog episode, but kept running into **technical issues** mid-recording.  
+- After the 3rd or 4th failed take, I could feel my enthusiasm dropping — especially with the time constraints.  
+- Suspecting something may be going on with my **computer (storage, CPU load, or another background process)** interfering with OBS.  
+- Originally planned to finish recording today so I could **edit the video during Thanksgiving travel**, but the universe would not let me be great.  
+- Decided to step back for now — will **reattempt soon** with a clearer head and hopefully a more stable setup.
+
+---
+
 ## 📅 19 Nov 25 
 
 - **Tested OBS and full equipment setup** for the first time.  
