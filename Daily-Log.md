@@ -2,6 +2,19 @@
 
 ##
 
+## 📅 6 Nov 25 
+
+- Participated in a **Building LLM Automations** activity.  
+- Created the **Melanated ML Spotlight Generator** using **Google Gemini**.  
+  - Similar conceptually to creating your own GPT in ChatGPT.  
+  - Designed to highlight individuals in the ML/AI space who are **publicly known**, as well as **students, educators, and community members** who deserve recognition but may not have visibility.  
+- Planning a **Version 2** designed for a different type of user experience and improved functionality.  
+- Overall, I really like the direction of the idea.  
+  - The walkthrough/recording aspect (to showcase product) will take time to get comfortable with, but the only way forward is through reps.  
+  - Will continue practicing until it becomes second nature.
+
+---
+
 # 🗓️ October 2025 — Recap & Reflection  
 
 October was a month of **testing, refining, and leveling up** — both literally and mentally. It felt like the culmination of the discipline, patience, and effort from previous months finally took shape, even through the challenges along the way.  
