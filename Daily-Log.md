@@ -2,7 +2,31 @@
 
 ##
 
-## 20 Dec 2025
+## 23 Dec 25 
+
+- Started the **AI & Data Science Fundamentals program** from an AI platform/community hub. The program includes:
+  - Overview of the program
+  - AI & Data Science as a Profession
+  - AI & Data Science Field Knowledge
+  - Lessons/modules covering:
+    - Python Fundamentals  
+    - Basic Statistics & Probability  
+
+- The **free program is helpful and gives a solid foundation**, but the **full AI Engineering Bootcamp** goes much deeper, including:
+  - Statistical Analysis  
+  - Advanced Python  
+  - Machine Learning  
+  - Natural Language Processing  
+  - Neural Networks  
+  - AI Agents & Agent Workflows  
+  - And more topics across the AI field  
+
+- The **curriculum outline looks strong and structured**, but I’m currently **not able to invest financially**, so I’ll continue making the most of the free material for now.
+
+
+---
+
+## 20 Dec 25
 
 - Picked back up **Automate the Boring Stuff with Python**
 - Intention this time is to stay **more project-focused** — still reinforcing fundamentals, but building **small, useful programs alongside the learning process**
