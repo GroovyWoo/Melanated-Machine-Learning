@@ -2,6 +2,28 @@
 
 ##
 
+## 9 Dec 25
+
+- Continued working through the **Linear Regression** section of the Machine Learning Crash Course  
+- Learned about **Loss** — including:
+  - What loss represents  
+  - How distance to the correct answer relates to loss  
+  - Different **types of loss functions**  
+  - How loss is calculated  
+  - Beginning to distinguish **MAE, MSE, and RMSE**, and expect the differences to become clearer with practice  
+
+- Completed the **Parameters Exercise**, adjusting **weight and bias sliders** to find the linear model that minimizes **MSE loss** on the dataset  
+
+- Began learning **Gradient Descent**  
+  - Watched an example that compared tuning weights and bias to minimizing distance when locating a coffee shop  
+  - Key takeaway: **lowest loss = best model fit**  
+  - Recognized how this relates to real-world tools (e.g., map routing/optimization; Google/Apple Maps)  
+  - Considering building a **distance-prediction or routing-style project** (e.g., coffee shops, libraries, grocery stores) for portfolio purposes + deeper understanding  
+
+- Learned about **convex loss surfaces and convergence**, and how gradient descent follows the slope to reach the global minimum
+
+---
+
 ## 8 Dec 25
 
 - Started **Machine Learning Crash Course (Google Developers)**  
