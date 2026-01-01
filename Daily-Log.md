@@ -2,6 +2,28 @@
 
 ##
 
+## 24 Dec 25 
+
+- Continued the **Python Fundamentals** lesson within the AI & Data Science Fundamentals program.
+- Covered topics including:
+  - Programming concepts
+  - Fibonacci sequences
+  - Jupyter Notebook
+  - Python REPL (Read–Eval–Print Loop)
+  - PEP (Python Enhancement Proposal)
+
+- It was interesting to revisit **Fibonacci**, since I was first introduced to it through trading/investing — and later recognized how deeply it appears in **nature and plant structures**. Now seeing it again in the context of **Python and programming** added a new perspective.
+
+- Learned about the **embedded Python REPL**, as well as the **PEP process** for improving Python over time.
+
+- A key reminder from today:
+  > **“Comment while you code.”**  
+  This will help document intent and meaning in my programs — especially for times when I need to step away and later return to the project(s).
+
+- Also spent time navigating and experimenting inside **Jupyter Notebook**. I know this will become a core tool for me moving forward, especially as I continue building skills through more hands-on practice.
+
+---
+
 ## 23 Dec 25 
 
 - Started the **AI & Data Science Fundamentals program** from an AI platform/community hub. The program includes:
