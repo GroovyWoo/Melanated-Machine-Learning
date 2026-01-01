@@ -2,6 +2,17 @@
 
 ##
 
+## 14 Dec 25
+
+- Made a strategic decision to **pivot focus from Machine Learning Engineering toward AI Engineering**
+- Realized that **ML Engineering requires a deeper technical ramp-up**, while **AI Engineering aligns more closely with my current strengths and near-term career goals**
+- Not abandoning ML — just **sequencing the journey more realistically**
+- Committed to **doubling down on Python**, since it is foundational to both AI and ML roles
+- Acknowledged that this pivot initially felt like “slowing down,” but reframed it as a **level-up strategy that allows faster growth, confidence-building, and career momentum**
+- Plan to return to heavier ML theory and model-building later, once I’ve secured stronger footing and experience in AI Engineering
+
+---
+
 ## 9 Dec 25
 
 - Continued working through the **Linear Regression** section of the Machine Learning Crash Course  
