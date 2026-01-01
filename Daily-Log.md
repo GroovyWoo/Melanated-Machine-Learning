@@ -2,6 +2,59 @@
 
 ##
 
+
+
+---
+
+## 25 Dec 25 
+
+- Continued the **Python Fundamentals** lesson, focusing on:
+  - **Variables**
+  - **Data Types**
+  - **Reserved Words**
+  - **f-strings and t-strings**
+  - Hands-on work in **Jupyter Notebook** and **Trinket**
+
+- Learned about **Reserved Words** in Python — something I don’t recall encountering in earlier study rounds. Definitely helpful when naming variables and avoiding conflicts.
+
+- Refreshed my understanding of **f-strings** — how formatting works and how they differ from (and relate to) other string formatting approaches.
+
+- Reviewed the main **Python data types**, recognizing many from past practice sessions.
+
+---
+
+### 🛠 Project Work — *Automate the Boring Stuff with Python*
+- Built a **Task Automation Script** that:
+  - Scans a folder
+  - Detects files by extension
+  - Automatically moves them into sub-folders  
+    (e.g., `.jpg → Images`, `.csv → Data`, etc.)
+
+- Learned and applied:
+  - **pathlib** — for OS-independent file handling
+  - **Automating file movement**
+  - Used a **test folder** to safely practice moving `.csv`, `.txt`, and `.jpg` files into their proper locations
+
+- This workflow is something I definitely want to adopt in real life — especially for:
+  - Large media libraries (photos, videos, external drives)
+  - Music files & catalog organization  
+    (released / unreleased / drafts / collabs / sound design, etc.)
+
+---
+
+### 🔁 Recap & Key Concepts Reinforced
+- **Logic Loops** — Using `while` conditions so models/processes continue until a goal is met  
+- **Set Operations** — Fast data comparison (e.g., checking whether guessed data matches target data)  
+- **Pathlib / OS** — Interacting with the *physical* world (files, drives, cloud storage)  
+- **Dictionary Mapping** — Creating simple rule-based “brains” that categorize data automatically based on patterns  
+
+---
+
+Overall — building toward automation skills felt rewarding today. The impact of small scripts at scale really stood out.
+
+
+---
+
 ## 24 Dec 25 
 
 - Continued the **Python Fundamentals** lesson within the AI & Data Science Fundamentals program.
