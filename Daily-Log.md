@@ -2,6 +2,27 @@
 
 ##
 
+## 8 Dec 25
+
+- Started **Machine Learning Crash Course (Google Developers)**  
+- Began the **Linear Regression** section  
+- Reviewed the car **fuel-efficiency example** and how linear regression models map input features to a target value  
+- Learned the core regression equation:
+  \[
+  y = b + w_1x_1
+  \]
+  where:  
+  - **y** = predicted value  
+  - **b** = bias/intercept  
+  - **w₁** = weight  
+  - **x₁** = input feature  
+
+- Noted that more sophisticated ML models typically use **multiple features** (multivariate regression), not just one input  
+- Continuing to build foundational intuition before implementing code-based examples
+
+
+---
+
 # 📆 November 2025 — Recap & Reflection
 *A month of slowdown, recalibration, and learning what resilience actually feels like.* 
 
