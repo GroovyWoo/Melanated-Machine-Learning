@@ -2,6 +2,18 @@
 
 ##
 
+## 20 Dec 2025
+
+- Picked back up **Automate the Boring Stuff with Python**
+- Intention this time is to stay **more project-focused** — still reinforcing fundamentals, but building **small, useful programs alongside the learning process**
+- First project completed: a **Logic Bridge / “secret-word guessing” game**
+  - Realized it’s very similar to my existing **“You Guessed It”** project on GitHub — essentially the same core concept, but with a different iteration and structure
+  - Debating whether to **add it as a separate project** or **merge both into an enhanced / advanced version**
+- Even though I felt a bit rusty, it was still **great practice — another confidence and skill-building rep**
+
+
+---
+
 ## 14 Dec 25
 
 - Made a strategic decision to **pivot focus from Machine Learning Engineering toward AI Engineering**
