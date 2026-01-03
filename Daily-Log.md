@@ -2,6 +2,136 @@
 
 ##
 
+# ✨ 2025 — Year-End Reflection  
+## A Year of Planting Seeds, Studying, Building, & Becoming
+
+2025 was the year I **truly committed to this journey.**
+
+(Almost) A year of:
+- studying AI / ML
+- earning certifications
+- building real projects
+- experimenting with tools & workflows
+- documenting the journey publicly
+- and slowly shaping the vision for **Melanated Machine Learning (MML)**
+
+It wasn’t linear.
+It wasn’t always smooth.
+But it was honest, disciplined, and intentional.
+
+---
+
+### 🏁 Major Milestones This Year
+- Completed **multiple AI learning programs**
+- Passed **two Oracle AI Certifications**
+- Started my **ML → AI Engineering transition**
+- Built & deployed **my first ML project**
+  - *Iris Classifier API — FastAPI edition*
+- Practiced:
+  - JSON workflows
+  - Python scripting
+  - automation systems
+  - prompt engineering
+  - AI platform experiments
+- Began **the MML brand journey**
+  - content strategy
+  - learning documentation
+  - prompt pack work
+  - platform identity & purpose
+- Built consistency in:
+  - GitHub logs  
+  - reflective writing  
+  - real-time learning documentation
+
+---
+
+### 🧩 The Internal Work
+This year also included:
+
+- burnout moments
+- slow months
+- doubt & redirection
+- technical frustration
+- restarting projects
+- adjusting expectations
+- life happening — while still staying committed
+
+But I learned:
+
+> Progress isn’t always loud.  
+> Sometimes it’s quiet, internal, foundational.
+
+And every rep counts.
+
+---
+
+### 🔥 MML — Becoming Something Real
+This year planted the core of what **Melanated Machine Learning** will become:
+
+A space for:
+- learning
+- culture
+- representation
+- knowledge-sharing
+- creativity
+- technology grounded in community
+
+And I’m reminding myself:
+
+> Keep creating **MML-aligned projects — now — while the journey is still early.**
+
+Because the story matters just as much as the skill.
+
+---
+
+### ⚖️ Reality Check — And Gratitude
+I’m still balancing a lot.
+Still building.
+Still learning.
+Still trying to level up career-wise and financially.
+
+But I’m also:
+✔ further along than when I started  
+✔ more skilled than last year  
+✔ more aligned with purpose  
+✔ still here — still moving  
+
+And that means something.
+
+---
+
+### 🚀 Looking Ahead — January 2026 & Beyond
+January begins a new chapter.
+
+And quietly — we’re approaching **Year 1 of MML.**  
+Halfway there already.
+
+The next phase is about:
+- execution  
+- clarity  
+- skill compounding  
+- aligned opportunities  
+- documenting the journey  
+- sharing the knowledge  
+
+And continuing to build this platform brick-by-brick.
+
+---
+
+### 🖤 Final Word
+I’m grateful — for the wins, the lessons, the setbacks, and the slow days.
+
+This journey is bigger than me.
+
+And I’m still here.
+Still learning.
+Still showing up.
+Still believing.
+
+One step at a time...
+
+---
+
 # 📅 December 2025 — Recap & Reflection
 
 December felt like a month of **quiet progress, foundations, and recalibration**.
