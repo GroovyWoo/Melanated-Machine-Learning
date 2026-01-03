@@ -2,6 +2,101 @@
 
 ##
 
+# 📅 December 2025 — Recap & Reflection
+
+December felt like a month of **quiet progress, foundations, and recalibration**.
+
+It wasn’t the flashiest month — but it was real, grounded work:
+learning, adjusting, restructuring mentally and technically, and continuing to stay in motion even when momentum felt slower.
+
+---
+
+### 🧠 What I Focused On
+- Continued working through **AI & Data / Python learning modules**
+- Deepened fundamentals in:
+  - Linear Regression
+  - Loss & Gradient Descent
+  - Python core skills
+  - Collections, variables, dictionaries & data handling
+- Practiced **automation scripting** — specifically around file management
+  - Including music-related workflows & creative data handling
+- Built **task automation scripts** to organize files automatically  
+  → because real-world friction deserves real-world solutions
+
+And behind the scenes…
+
+I kept **re-evaluating my direction between ML Engineering & AI Engineering** — choosing the path that allows me to skill-up, stabilize, and contribute at a sustainable pace.
+
+---
+
+### 🧘🏽‍♂️ Real-Life Context (The Human Side)
+December reminded me:
+
+> You can still be disciplined, still be committed,  
+> and still be human.
+
+There was **fatigue, priority shifts, life adjustments — and also gratitude.**
+
+I’m still **balancing a lot** — but I’m also still:
+✔ showing up  
+✔ learning something daily  
+✔ documenting the journey  
+✔ moving forward  
+
+Even when progress feels quiet — it’s still progress.
+
+---
+
+### 🏗️ Skills Strengthened This Month
+- Python fundamentals & problem-solving
+- Automation thinking (turning repetition into systems)
+- Data organization & workflow design
+- ML intuition around:
+  - Loss
+  - Convergence
+  - Regression behavior
+- Project execution mindset
+
+---
+
+### 🔗 How This Connects to AI / ML
+This month tied directly into:
+
+- **Data pipelines**
+- **AI workflows**
+- **Automation for real-world environments**
+- **LLM-adjacent infrastructure**
+- **RAG-style prep (structured datasets = cleaner retrieval later)**
+
+Foundations before flash.  
+Infrastructure before scale.
+
+---
+
+### 🌱 MML — Slowly Planting Seeds
+I’m still reminding myself to:
+
+- keep **creating**
+- keep **releasing**
+- keep **building the identity & impact of MML**
+- especially while this space — and my journey — are still early
+
+Because representation & community matter.
+
+---
+
+### 🖤 Final Reflection
+December wasn’t loud.
+
+But it was **intentional. Grounded. Necessary.**
+
+And I’m proud of that.
+
+> Stay disciplined. Stay patient. Stay grateful (*and Stay Hydrated Playa 💧*).  
+> Momentum returns — and when it does, the foundation will be ready.
+
+---
+
 ## 🎵🗃️ 30 Dec 25 — Task Automation for Music File Management
 
 ### 📌 What I Worked On
