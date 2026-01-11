@@ -2,6 +2,74 @@
 
 ##
 
+## 📅 4 Jan 26
+
+### 🔧 What I Worked On
+- Continued **Web Scraping (The Data Miner)** projects from *Automate the Boring Stuff with Python*
+- Focused on Python-based **data collection and extraction**
+- Installed and used:
+  - `requests`
+  - `beautifulsoup4`
+- Set up a **new virtual environment** dedicated to music-related projects
+- Practiced navigating directories after being stuck in a previous project path
+- Completed a test scrape using `example.com`
+  - Confirmed successful site connection
+  - Extracted and displayed:
+    - Page title
+    - Preview of the first paragraph
+
+<img width="637" height="598" alt="Screenshot 2026-01-08 at 1 20 03 PM" src="https://github.com/user-attachments/assets/e08ab480-091b-4678-8678-9cfc4eba520c" />
+
+---
+
+### 🎵 Cross-Domain Insight (Music × Data × Python)
+A key realization today was how naturally my **music interests and music business knowledge** are merging with Python and data workflows.
+
+I’m actively working toward building my **own system** to:
+- Track my music catalog:
+  - Released
+  - Unreleased
+  - Unfinished
+  - Collaborations
+- Manage music-related files and metadata
+- Understand how information is structured, categorized, and maintained across a larger creative landscape
+
+This feels like an organic intersection of:
+- Creative practice
+- Technical skill-building
+- Real-world data organization
+
+---
+
+### 🧠 Skills & Concepts Reinforced
+- Python web scraping fundamentals
+- HTTP requests and HTML parsing
+- Virtual environment setup & management
+- Directory navigation in Terminal & VS Code
+- Translating real-life problems into programmable systems
+
+---
+
+### 🔗 How This Connects to AI / ML / Automation
+- Web scraping → **data collection pipelines**
+- Organized datasets → **model-ready inputs**
+- Music metadata → potential use cases for:
+  - Recommendation systems
+  - Catalog intelligence
+  - Creative analytics
+- Automation thinking → scalable creative workflows
+
+---
+
+### 🖤 Reflection
+Most of my practice continues to happen quietly inside **VS Code**, and I’m becoming more comfortable building systems that solve problems I actually care about.
+
+This is the kind of work that doesn’t need to be loud to be meaningful.
+
+Quiet, consistent progress — and the dots are starting to connect.
+
+---
+
 # ✨ 2025 — Year-End Reflection  
 ## A Year of Planting Seeds, Studying, Building, & Becoming
 
