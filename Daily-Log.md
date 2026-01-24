@@ -2,6 +2,81 @@
 
 ## 
 
+## 📅 20 Jan 26
+
+### 🎵 Project Update
+**Music Miner — Music Catalog of the 2020s**
+
+---
+### 🧠 What I worked on
+- Continued developing the **Music Miner** project, focused on building a structured music catalog of the **2020s**.
+- After several failed attempts and debugging cycles, successfully ran the script.
+- Generated a **CSV file** containing:
+  - **Top 20 songs of the 2020s**
+  - Organized by **Artist** and **Song Title**
+- Verified the output and confirmed the data was written correctly to the file.
+
+📸:   
+- <img width="465" height="538" alt="Screenshot 2026-01-20 at 1 44 05 PM" src="https://github.com/user-attachments/assets/0e5a04b6-275a-4e4a-89fd-319f6eb1063d" />
+
+- Recognize any of these songs? 
+
+---
+### ✅ Project Status
+- **Project 2 is complete.**
+- This project feels reusable and scalable.
+- I plan to replicate this workflow for:
+  - Other decades of music
+  - Expanded datasets
+  - More advanced metadata extraction in the future
+
+---
+### 🐍 Continuing: Crash Course on Python
+- Continued progress through the **Crash Course on Python** (Coursera).
+- Topics covered:
+  - Code editors vs IDEs
+  - Using the **command line**
+  - Python’s role in development workflows
+
+---
+### 🧰 Tools & Platforms Discussed
+- **VS Code**
+  - My primary editor for most programming work.
+- **MacOS Terminal**
+  - Used alongside VS Code for environment and script execution.
+- **JupyterLab / Jupyter Notebooks**
+  - Familiar, but limited hands-on usage so far.
+  - Ran a quick test print for practice.
+  - My “Hello World” is more like: *“Hey Young World.”*
+  - Plan to deepen usage later if/when necessary.
+- **Google Colab**
+  - More experience viewing notebooks than actively using them.
+  - Likely to use in the future for:
+    - Collaboration
+    - Shared experiments
+    - Demonstrations beyond GitHub
+- Other IDEs mentioned (on my radar):
+  - PyCharm
+  - PyDev
+  - Notepad++
+  - Gemini Code Assist
+
+---
+### ⏸️ Reflection
+- Took a pause for the day after completing the main objectives.
+- Next steps in this course:
+  - Review the **Study Guide**
+  - Complete the **Module 1 Challenge** (graded assignment)
+
+---
+### 🔮 Forward Notes
+- Revisit and extend **Music Miner** for additional decades.
+- Explore richer metadata extraction and validation.
+- Ready to move on to other/future projects.  
+
+
+---
+
 ## 📅 19 Jan 26
 
 ### 🎵 Project Focus
