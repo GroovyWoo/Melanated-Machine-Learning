@@ -2,6 +2,41 @@
 
 ## 
 
+
+## 📅 18 Jan 26
+
+### 🧠 What I did
+- Continued progressing through the **Crash Course on Python** via Coursera.  
+- Taking advantage of **free Coursera offerings** provided through a local tech / AI program I’m part of.  
+- While the program offers technical skills, I'm more inclined to utilze the **career and job assistance** side of things for my long and short-term goals.  
+- Covered topics including:
+  - **Automation concepts**
+  - **Syntax vs. semantic errors**
+  - **Python’s relevance and role within IT environments**
+- Completed several **quizzes** to reinforce understanding.  
+- Reached approximately **halfway through the current module**.
+
+---
+### 🔍 What I noticed
+- Revisiting fundamentals like syntax and semantic errors is useful, even with prior experience, especially for debugging efficiency.  
+- The framing of Python within **IT workflows** reinforces its versatility beyond just scripting or ML (automation, systems, tooling).  
+- Quizzes help surface gaps that might otherwise be overlooked during passive learning.
+
+---
+### 🧩 Why this matters
+- Strong fundamentals reduce friction as projects become more complex (scraping, data pipelines, ML workflows).  
+- Python’s role as a bridge between **IT, automation, data, and AI** aligns well with my interdisciplinary approach.  
+- This course complements hands-on project work by reinforcing theory and best practices.
+
+---
+### 🔮 Forward connection
+- Finish the remaining portion of the module.  
+- Continue pairing structured coursework with **practical Python projects** (e.g., automation, scraping, data handling).  
+- Apply these concepts directly within upcoming MML-related tools and personal systems.
+
+---
+
+
 ## 📅 13 Jan 26
 
 ### 🧠 What I did
