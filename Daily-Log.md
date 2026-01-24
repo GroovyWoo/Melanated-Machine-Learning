@@ -2,6 +2,63 @@
 
 ## 
 
+## 📅 19 Jan 26
+
+### 🎵 Project Focus
+**Project 2: Music Miner / Music Metadata Extractor**  
+*(Based on concepts from Automate the Boring Stuff with Python)*
+
+---
+### 🧠 What I did
+- Started **Project 2**, focused on extracting and cleaning **music-related metadata**.
+- Activated my Python virtual environment: **`music_env`**.
+- Typed out and walked through the code step-by-step to better understand the logic flow.
+- Implemented a text-cleaning step using **`re.sub()`**, which removes bracketed values from strings.
+  - Example logic: remove patterns like `[12]` from titles.
+- Encountered and debugged an error related to HTML parsing.
+  - Learned the distinction between **`html.parser`** and **`lxml`**.
+- Successfully ran the script after adjusting the parser configuration.
+
+---
+### 🔍 Key Observations
+- The `re.sub()` usage felt like a **“mini AI moment”**:
+  - Instructing Python to *search for anything inside brackets and delete it*.
+  - Pattern used:  
+    ```python
+    r'$begin:math:display$\.\*\?$end:math:display$'
+    ```
+- This mirrors real-world **music industry data hygiene**:
+  - Titles like `"Blinding Lights [1]"` can trigger errors in distributors or royalty tracking systems.
+  - The script effectively acts as an **Automated Data Quality Controller**.
+- Regular Expressions (`re`) will require deeper familiarity, especially as data volume increases.
+
+---
+### 🧩 Concepts Introduced
+- **Regular Expressions (Regex)**  
+  - Pattern matching and text normalization.
+- **HTML Parsing**
+  - Understanding parser options (`html.parser` vs `lxml`) and when to use them.
+- **Defensive Programming (Open Question)**
+  - Began thinking about how to write code that anticipates errors, bad data, or unexpected inputs.
+
+---
+### 🤔 Reflections
+- I’m still not a “fan” of programming.
+- However, Python is clearly a **necessary and foundational skill** for becoming a stronger AI / ML Engineer.
+- Seeing direct overlap between:
+  - Programming  
+  - Music business workflows  
+  - Data quality and automation  
+  reinforces *why* this effort matters.
+
+---
+### 🔮 Forward Notes
+- Spend more time learning **Regular Expressions** in practical contexts.
+- Revisit **Defensive Programming** patterns and how they apply to data pipelines.
+- Continue shaping this project into a reusable personal system for music catalog management.
+
+
+---
 
 ## 📅 18 Jan 26
 
