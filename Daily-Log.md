@@ -2,13 +2,42 @@
 
 ## 
 
+## 📅 13 Jan 26
+
+### 🧠 What I did
+- Recently joined a **local tech / AI workforce program** focused on skill development (certificates) and career assistance.  
+- Gained access to **Coursera** through the program, with several courses offered for free. I more so need career assistance vs the skills. 
+- Noted that I had already completed **Google AI Essentials** prior to joining.  
+- Reviewed the **Prompt Engineering** course option; based on my current experience and confirmation from the program assistant, it wasn’t a priority at this stage.  
+- Considered starting **Google Data Analytics**, but opted instead for a **Python Crash Course** to run in parallel with *Automate the Boring Stuff with Python* as I finish the remaining projects.  
+- Started **Module 1: “Hello Python!”**, completing initial videos and reading material.
+
+---
+### 🔍 What I noticed
+- While data analytics is important long-term, strengthening **Python fundamentals** right now feels like higher leverage.  
+- The Python Crash Course aligns well with my current workflow: scripting, automation, web scraping, and early-stage data handling.  
+- Having external validation that I don’t *need* Prompt Engineering coursework right now reinforced the value of self-assessment and intentional learning paths.
+
+---
+### 🧩 Why this matters
+- Python continues to be the **throughline** across automation, data collection, ML, and AI workflows.  
+- Running multiple learning tracks in parallel (projects + structured coursework) helps reinforce concepts from different angles.  
+- This choice supports long-term goals around ML, data systems, and building practical tools rather than collecting certificates without application.
+
+---
+### 🔮 Forward connection
+- Continue progressing through the Python Crash Course alongside *Automate the Boring Stuff* projects.  
+- Revisit **Data Analytics** later once data collection pipelines (scraping, CSVs, structured storage) are more mature.  
+- Leverage this program not just for credentials, but as a bridge toward applied projects and career alignment within AI/ML (and other current tech roles).
+
+---
+
 ## 📅 8 Jan 26
 
 ### 🧠 Phase Focus
 **Surgical Phase — Web Scraping & Data Extraction**
 
 ---
-
 ### 🔧 What I Worked On
 - Continued **Web Scraping (The Data Miner)** projects using Python
 - Shifted from basic scraping → **targeted, real-world data extraction**
@@ -23,7 +52,6 @@
 - The struggle ended up being a **valuable refresher** for future workflows
 
 ---
-
 ### ⛏️ Data Collected — Hacker News Headlines
 **Source:** https://news.ycombinator.com  
 **Date Mined:** January 8, 2026
@@ -46,7 +74,6 @@
 <img width="595" height="364" alt="Screenshot 2026-01-08 at 2 39 13 PM" src="https://github.com/user-attachments/assets/bd694500-1003-43c3-8f47-83446ab269c4" />
 
 ---
-
 ### 📊 Data Persistence & Output
 - Extended the script to **save extracted headlines into a CSV file**
 - Created:
@@ -70,7 +97,6 @@
 
 
 ---
-
 ### 🧠 Skills & Concepts Reinforced
 - Virtual environment management (`venv`)
 - Web scraping from live production sites
@@ -80,7 +106,6 @@
 - Translating real-time data into reusable datasets
 
 ---
-
 ### 🔗 How This Connects to AI / ML / Automation
 - Scraped headlines → **raw NLP-ready text**
 - CSV datasets → **model training / analysis inputs**
@@ -92,7 +117,6 @@
 - Reinforces the importance of **clean, repeatable data pipelines**
 
 ---
-
 ### 🖤 Reflection
 Today was a reminder that friction often comes from **environment awareness**, not lack of skill.
 
@@ -143,7 +167,6 @@ This feels like an organic intersection of:
 - Real-world data organization
 
 ---
-
 ### 🧠 Skills & Concepts Reinforced
 - Python web scraping fundamentals
 - HTTP requests and HTML parsing
@@ -152,7 +175,6 @@ This feels like an organic intersection of:
 - Translating real-life problems into programmable systems
 
 ---
-
 ### 🔗 How This Connects to AI / ML / Automation
 - Web scraping → **data collection pipelines**
 - Organized datasets → **model-ready inputs**
@@ -163,7 +185,6 @@ This feels like an organic intersection of:
 - Automation thinking → scalable creative workflows
 
 ---
-
 ### 🖤 Reflection
 Most of my practice continues to happen quietly inside **VS Code**, and I’m becoming more comfortable building systems that solve problems I actually care about.
 
