@@ -3,6 +3,20 @@
 ## 
 
 
+## 2 Feb 26
+
+- Continued the **Coursera Python Crash Course**, moving through **Module 2: Basic Python Syntax**.
+- First section focused on **Expressions and Variables**.
+- Already familiar with most terminology and type usage, but learned:
+  - **Variable annotations / annotating variables**
+  - The difference between **implicit vs explicit type conversion**
+- Completed a simple example converting a number into a string.
+- Took the **practice quiz on Expressions & Variables** and passed.
+- Noted that implicit vs explicit conversion is an area I’ll need to become more comfortable with as I go deeper into Python and work with more complex data flows.
+
+
+---
+
 # 📆 January '26 — Monthly Wrap-Up, Recap & Reflection
 
 ## Overview
