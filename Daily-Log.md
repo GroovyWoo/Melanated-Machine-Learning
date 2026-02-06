@@ -3,6 +3,115 @@
 ## 
 
 
+# 📆 January '26 — Monthly Wrap-Up, Recap & Reflection
+
+## Overview
+January marked a steady, intentional start to 2026. While balancing multiple responsibilities and moving at a measured pace, I continued to make **daily progress** across Python, web scraping, automation, and ML-adjacent skills. Even when momentum slowed, consistency did not stop.
+
+This month reinforced an important truth for me: progress does not always look fast, but it *does* compound.
+
+---
+
+## Technical Progress & Learning Highlights
+- Continued working through **Crash Course on Python (Coursera)**  
+  - Completed **Module 1**
+  - Covered fundamentals including:
+    - Python syntax
+    - Automation concepts
+    - Semantic vs syntax errors
+    - Python’s relevance to IT, data, and AI workflows
+- Completed multiple **web scraping and automation projects**, including:
+  - Tech headline scraping (HN)
+  - Music metadata extraction and CSV generation
+  - Fitness/step data scraping experiments
+- Strengthened familiarity with:
+  - Virtual environments
+  - CSV pipelines
+  - Regular expressions (`re`)
+  - HTML parsing (`html.parser` vs `lxml`)
+  - Defensive programming concepts (early awareness stage)
+- Continued using **VS Code**, terminal workflows, and light exposure to:
+  - Jupyter Notebooks
+  - JupyterLab
+  - Google Colab (observational for now)
+
+---
+
+## Melanated Machine Learning (MML) — Reflection
+While platform development slowed within these past few months, January served as a **re-centering period** rather than a pause. I’m still finding balance — but I’m also finding ways to move forward daily.
+
+One key reminder to self:
+> Create and release MML-related projects and ideas *early*, especially while familiarity is still forming.
+
+Iteration beats perfection.
+
+---
+
+## The Blackwell Discovery — Representation & Purpose
+This month, I finally took the time to learn about **David Harold Blackwell**.
+
+I remembered that NVIDIA’s **Blackwell chip and infrastructure** were named in his honor, but I had never fully explored *who* he was. The irony is that the renewed attention around the chip led **his own granddaughter** to deeply research his legacy — a reminder of how often foundational contributors remain hidden.
+
+![IMG_3080](https://github.com/user-attachments/assets/4d49ee85-3a8d-4d47-99a6-c210b69192e8)
+
+David H. Blackwell (born 1919) was a **Black/African American mathematician and statistician** whose work shaped:
+- Probability theory
+- Game theory
+- Statistics
+- Information theory
+- Decision theory
+- Foundations that modern AI and ML rely on today
+
+He was one of many **hidden figures** in STEM — brilliant, influential, yet under-recognized at scale. Also created The Rao-Blackwell (or Blackwell-Rao) theorm.
+
+Learning his story brought renewed life and clarity to what **Melanated Machine Learning** represents.
+
+It felt like:
+- Being slightly ahead of the curve  
+- Yet exactly on time  
+- Divine timing
+
+With this discovery, I plan to **intentionally integrate Blackwell’s theories and thinking into my AI/ML pathway**, treating his work as if he were a mentor and professor guiding me along the way.
+
+His granddaughter (Lisa Blackwell) is currently working on a **documentary** about his life and legacy — I’m looking forward to its release (currently titled *'Game Of Genius'*).
+
+![IMG_3092](https://github.com/user-attachments/assets/21cfcc98-a582-48e6-bb24-1597ed47f8fd)
+
+---
+
+## Ethics, Bias, and Responsibility
+I was reminded of themes from **Joy Buolamwini’s *Unmasking AI*** — particularly how bias in technology is often not malicious, but structural.
+
+If melanated voices are not present:
+- In the rooms
+- In the design process
+- In the data decisions
+
+…then systems can easily work *against* us, or fail to serve us properly.
+
+Knowing that **Blackwell’s legacy is now embedded — literally — into future-facing AI infrastructure** feels deeply symbolic. Black history, embedded in technology, shaping the future whether people realize it or not.
+
+<img width="800" height="540" alt="IMG_3082" src="https://github.com/user-attachments/assets/54bdb4db-1d58-4510-b7e2-76eaf7e98694" />
+
+
+
+**The 1920s and the 2020s are different eras, but many barriers remain familiar.**
+
+---
+
+## Closing Reflection
+January reminded me that:
+- Representation matters
+- Legacy matters
+- Intention matters
+
+It feels like I was already on this path — but **The Blackwell Story amplified the flame** 🔥✊🏽
+
+As I continue forward, my goal is not just to advance in AI/ML, but to help shape it — ethically, culturally, and consciously — across technology and beyond.
+
+
+---
+
 ## 📅 28 Jan 26
 
 ### Course Progress: Crash Course on Python (Coursera)
