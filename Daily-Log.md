@@ -3,6 +3,66 @@
 ## 
 
 
+## 5 Feb 26
+
+- Worked on a **`frequency_finder` Python project**, inspired by one of **David Harold Blackwell’s probability-related ideas**.
+- Started with **observations**, initially using **music genres** as the dataset.
+- Generated code to display:
+  - Total number of observations
+  - Unique categories
+  - Distribution of each category
+- Displayed each genre (observation) along with the number of times it appeared.
+
+- Applied the same method to a **stock market–style example**, using:
+  - `up`
+  - `down`
+  - `flat`
+  as observations.
+- This reframed the output from a **trading/investing perspective**:
+  - If a stock moves up/down/flat across a given time frame (daily, weekly, monthly),
+    what does the **distribution** look like?
+  - How does that translate into the **probability of an outcome**?
+
+- Took the project a step further by moving from **frequency to probability**:
+  - Converted raw counts into probabilities.
+  - Learned that in Machine Learning this process is called **Normalization**.
+  - Recognized this as foundational logic behind **Naive Bayes**, a well-known
+    classification algorithm.
+
+- Ran updated code in the VS Code terminal after adding probability calculations.
+  - First applied to the **stock market example**.
+  - Code: 
+  *📸*
+  
+  <img width="860" height="684" alt="Screenshot 2026-02-05 at 3 18 47 PM" src="https://github.com/user-attachments/assets/78cfd883-8034-4557-8c8f-b2f72da5c882" />
+
+  - Terminal: 
+  *📸*
+  
+  <img width="420" height="130" alt="Screenshot 2026-02-05 at 3 19 35 PM" src="https://github.com/user-attachments/assets/5a14f83c-136f-4ec5-8e61-239c6983f7c2" />
+  
+
+- Returned to the original **music genre example**:
+  - Added another genre to the dataset.
+  - Changed observations, which directly affected categories and distribution.
+  - Code: 
+  *📸*
+  
+  <img width="1010" height="669" alt="Screenshot 2026-02-05 at 3 25 02 PM" src="https://github.com/user-attachments/assets/2375cebe-d506-4bf2-ba54-f4a98d43ae78" />
+
+
+  - Terminal: 
+  *📸*
+  
+  <img width="578" height="157" alt="Screenshot 2026-02-05 at 3 25 42 PM" src="https://github.com/user-attachments/assets/ba8fa1d0-c378-4829-8ed1-7243d8b65964" />
+
+
+- Identified this process as an example of a **Probability Mass Function (PMF)**.
+- Noted the importance of **uncertainty** when interpreting data:
+  > “If the observation list is short, your uncertainty is high, regardless of what the percentages say.”
+
+---
+
 ## 3 Feb 26
 
 - Continued **Module 2: Basic Python Syntax** in the Coursera Python Crash Course.
