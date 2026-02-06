@@ -3,6 +3,26 @@
 ## 
 
 
+## 3 Feb 26
+
+- Continued **Module 2: Basic Python Syntax** in the Coursera Python Crash Course.
+- Moved into the **Functions** section.
+- Reviewed **built-in functions**:
+  - `print()` stood out as a foundational tool, especially when passing output between functions or debugging.
+  - Learned that `sorted()` cannot operate on lists or strings containing **mixed data types**.
+- Covered **Returning Values**:
+  - Noted that this concept will require more practice, especially for math-related logic.
+  - Even simple math behaves differently when implemented programmatically compared to conceptual math.
+- Reflected on **code style**:
+  - Keeping scripts clean and readable is important, especially when sharing code publicly or collaborating.
+- Took the **Practice Quiz**:
+  - Passed after a few reattempts.
+  - Reinforced that careful reading and logic tracing matter before jumping to an answer.
+- Prepared to move into the next section: **Conditionals**.
+
+
+---
+
 ## 2 Feb 26
 
 - Continued the **Coursera Python Crash Course**, moving through **Module 2: Basic Python Syntax**.
