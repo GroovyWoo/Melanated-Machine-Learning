@@ -2,6 +2,36 @@
 
 ## 
 
+
+## 📅 24 Jan 26
+
+### Project: Fitness (Step) Miner — Web Scraping (Project 3)
+
+- Moved on to the **third and final web scraping project**, the **Fitness (Step) Miner**, as part of the *Automate the Boring Stuff with Python* practice sequence.
+- After a few tweaks and adjustments to the script, I was able to successfully generate a `fitness_routine.csv` file.
+- The CSV file contained the expected column headers:
+  - `order`
+  - `exercise_name`
+- However, both columns were **empty**, indicating that while the file creation and pipeline worked, the data extraction logic did not fully capture the target elements from the page.
+
+### Reflection
+- I considered continuing to debug and refine the scraping logic to populate the dataset, but decided to **leave the project in its current state** and move forward.
+- This felt like a deliberate choice rather than avoidance — the core goal of the project (understanding the scraping workflow and CSV generation) was met.
+- Knowing *when to stop* and *when to move on* is part of developing good engineering judgment, especially when balancing multiple learning tracks.
+
+### Notes
+- This project still serves as a useful reference for:
+  - Structuring scraping scripts
+  - Creating CSV outputs
+  - Debugging partial or incomplete data pipelines
+- I may revisit this project in the future to improve extraction accuracy or expand it into a more complete fitness-tracking dataset.
+
+📸 *Optional:* Insert screenshot of the generated `fitness_routine.csv` file below for reference.
+
+
+--- 
+
+
 ## 📅 20 Jan 26
 
 ### 🎵 Project Update
