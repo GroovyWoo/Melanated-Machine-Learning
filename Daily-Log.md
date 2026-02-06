@@ -3,6 +3,34 @@
 ## 
 
 
+## 📅 28 Jan 26
+
+### Course Progress: Crash Course on Python (Coursera)
+
+- Reviewed the **study guide questions** for Module 1.
+- Completed and passed the **Module 1 quiz**, which covered:
+  - Core Python terminology  
+  - Conceptual understanding  
+  - A mix of short and more involved coding-related problems
+- While the earlier questions felt relatively straightforward, I intentionally took more time on the **longer, multi-step questions** toward the end.
+
+### Reflection
+- This module reinforced that **understanding the question itself is often the hardest part**.
+- Once the intent of the problem is clear, translating the logic into Python becomes much more manageable.
+- This feels especially important when thinking in terms of:
+  - Debugging
+  - Reading others’ code
+  - Collaborating or responding to real-world problem statements
+
+### Milestone
+- ✅ **Module 1 completed**
+- ▶️ Moving on to **Module 2: Basic Python Syntax**
+- 
+
+
+---
+
+
 ## 📅 24 Jan 26
 
 ### Project: Fitness (Step) Miner — Web Scraping (Project 3)
