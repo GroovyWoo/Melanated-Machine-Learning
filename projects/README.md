@@ -4,10 +4,15 @@
 
 This directory will serve as the home base for Python and Machine Learning projects developed and documented throughout the MML journey.
 
-## Coming Soon
+## Completed
 
 - MML Launchpad
 - Number Guessing Game 
+- Frequency Finder 
+
+
+## Coming Soon
+
 - Book Recommendation Bot 📚
 - PDF Invoice Generator 🧾
 - AI-Powered Journal Prompter ✍🏽
