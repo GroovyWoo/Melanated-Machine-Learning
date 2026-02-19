@@ -3,12 +3,15 @@
 ## 
 
 
+
+
+
 ## 9 Feb 26 
 
 - **Pushed The Blackwell Frequency Finder via Git**
 - **Objective:** Implementing David Blackwell’s foundations of data reduction and probabilistic thinking.
 - **Project:** Frequency Finder  
-  - *([Frequency Finder](./projects/frequency_finder.py))*
+  - *([Frequency Finder](./projects/FrequencyFinder/frequency_finder.py))*
 - **Key Learning:** Successfully transitioned from manual GitHub uploads to Git CLI (Command Line Interface).  
   - Practiced and used `git init`, `git mv`, and authenticated `git push`.
 - **ML Insight:** Transformed raw categorical data (Music Genres / Stock Trends) into a Probability Distribution, reinforcing core probabilistic modeling concepts.
