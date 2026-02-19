@@ -4,7 +4,61 @@
 
 
 
+---
 
+## 📅 11 Feb 2026
+
+## 🧠 Learning Focus: Python Conditionals (Crash Course on Python)
+
+### ✅ Topics Covered
+- Completed the **Conditionals** section within the *Basic Python Syntax* module.
+- Reviewed **Booleans and logical operators**.
+  - Need more practice differentiating **assignment (`=`) vs equality (`==`) operators**.
+  - Noted that **Boolean values are not strings** (`True` ≠ `"True"`).
+
+---
+
+### 🔤 String Comparisons & Unicode Insight
+- Learned that letters have **numeric codes in Unicode (ASCII)**, which explains why string comparisons like:
+  - `"my mac" >= "my pc"`
+  - `"Spring" <= "Winter"`
+  - `"Wednesday" > "Friday"`
+  return certain results.
+- Still developing intuition on **practical real-world use cases for string comparison operators**.
+
+---
+
+### 📊 Logical Operators — Real-World Thinking
+- Logical operator examples triggered ideas around:
+  - Housing market conditions (pricing thresholds)
+  - Stock market prediction scenarios (trend conditions)
+
+---
+
+### 🌳 Branching Logic (if / elif / else)
+- Branching logic reminded me of my **Guess the Number** project ([You Guessed It](./projects/You-Guessed-It)), where user attempts were limited.
+- Recognized the importance of **return statements** for building scripts that:
+  - Organize data
+  - Sort file types
+  - Automate workflows
+
+---
+
+### 🧪 Assessment
+- Completed **Conditionals Practice Quiz — Passed**.
+- Next up:
+  - Module 2 Review
+  - Module 2 Challenge Assessment (Basic Python Syntax)
+  - Transitioning to **Module 3: Loops**
+
+---
+
+## 🔮 Reflection
+Conditionals feel foundational for decision-making systems in AI/ML.  
+This logic mirrors real-world systems where outcomes depend on thresholds, states, and branching decisions (e.g., markets, automation workflows, recommendation engines).
+
+
+---
 
 ## 9 Feb 26 
 
