@@ -2,11 +2,40 @@
 
 ## 
 
+## 15 Feb 26
+
+## 📘 Python Learning Progress — Module 2 Review & Module 3 Intro
+
+### ✅ Module 2: Basic Python Syntax — Review & Challenge  
+- Completed the **Module 2 Review** and attempted the **Module 2 Challenge (Basic Python Syntax assessment)**.  
+- Failed the graded quiz **3 attempts in a single session**, but was able to progress further in the module.  
+- Will need to wait **24 hours before retaking the graded quiz**.  
+- The quiz is **not a determining factor** for overall program success. I may choose to retake later or continue forward regardless.
+
+### 🔁 Module 3: Loops — While Loops Introduction  
+- Began **Module 3: Loops**, starting with **while loops**.  
+- Learned that while loops repeatedly execute code **until the condition becomes False**, which can result in **infinite loops** if not properly controlled.  
+- Instructor mentioned that **while loops are especially useful for IT specialists**, which sparked curiosity about how that can apply to and/or align with my previous knowledge and experience.
+
+### 💡 Career Stacking Insight  
+- Considering how while loops could be leveraged in IT contexts such as:
+  - Monitoring system states  
+  - Automating repetitive administrative tasks  
+  - Polling services or APIs  
+  - Running continuous scripts until specific conditions are met  
+- This reinforces the idea that Python skills can **stack on top of previous IT experience** as a stepping stone toward AI/ML roles.
+
+---
+
+### 🧠 Reflection  
+- Recognized the importance of persistence after failing multiple attempts.  
+- Embracing the mindset that progress in programming and AI/ML is **iterative and cumulative**, not linear.  
+- Continuing forward with patience and long-term mastery in mind.
 
 
 ---
 
-## 📅 11 Feb 2026
+## 📅 11 Feb 26
 
 ## 🧠 Learning Focus: Python Conditionals (Crash Course on Python)
 
