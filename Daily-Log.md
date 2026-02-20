@@ -2,6 +2,112 @@
 
 ## 
 
+## 👨🏾‍💻👩🏾‍💻🧠⚙️  18 Feb 26
+
+### ✅ Module 2 Retake — Basic Python Syntax  
+- Retook the **Module 2 Graded Quiz** and **finally** passed.  
+- Retake was optional to continue the program, but completed for **mastery and closure**.  
+
+### 🔁 Module 3 — While Loops (Deepening Understanding)  
+- Continued **Module 3: Loops**, focusing on **while loops**.  
+- Prior familiarity from *Automate the Boring Stuff with Python* helped accelerate understanding.  
+- Identified that the **trickiest concept was debugging infinite loops** and recognizing logical errors in loop conditions.  
+- Number-based while loop exercises revealed gaps in intuition around loop counters and termination conditions, highlighting areas for deeper study.
+
+---
+
+## 🧪 Phase 1 Projects — Data, Ethics, and Simulation Foundations
+
+## 🎧 Data Cleaner / Data Sanitizer Project (Music Dataset)  [Data Sanitizer](./projects/DataSanitizer)
+- Pivoted from the **Frequency Finder** project to a **Data Cleaner (Sanitizer)** project.  
+- Demonstrated three dataset states in code:
+  - **Original Data:** Included missing/unknown/null values.  
+  - **Cleaned Data:** Removed unverifiable (null) entries.  
+  - **High-Impact Data:** Filtered songs/artists with **plays > 100**.  
+- Highlighted that play counts lack temporal context (weekly/monthly/yearly), which affects interpretation and business decisions.
+
+### 📊 Dropping vs Imputing  
+- **Dropping:** Removing records that don’t meet thresholds (data becomes invisible).  
+- **Imputing:** Assigning placeholder values (e.g., 0 plays).  
+- Reflected on how DSP royalty systems could mask low-play data, influencing artist perception and contract negotiations.  
+- Insight: **Data literacy can empower artists, but also be used against them.**
+
+---
+
+### ⚖️ Data Integrity, Bias, and Ethics Reflection  
+- Observed that **data collection ≠ data display**.  
+- Cleaned datasets shape narratives; withheld data can distort reality.  
+- Connected this to **AI Bias, Ethics, and Model Interpretability**.  
+- Advocated for **before-and-after dataset transparency** to improve trust and reduce algorithmic bias.
+
+---
+
+## 🎲 Random Walk Simulation Project (Blackwell Exercise)  [RandomWalk](./projects/RandomWalk) 
+- Implemented a **Random Walk simulation** to model uncertainty and time-based probability movement.  
+- Total steps: **100**, with last **10 steps displayed for history tracking**.  
+- Ran **5 simulation examples** to observe variation patterns.
+- 1st:
+- <img width="484" height="86" alt="Screenshot 2026-02-19 at 2 28 44 AM" src="https://github.com/user-attachments/assets/3052816b-5089-4ffc-99c0-e6b122a07a5e" />
+
+- 2nd:
+- <img width="501" height="87" alt="Screenshot 2026-02-19 at 2 30 05 AM" src="https://github.com/user-attachments/assets/b31b8102-bfbf-4163-8791-6e9c302b5c50" />
+
+- 3rd:
+- <img width="412" height="85" alt="Screenshot 2026-02-19 at 2 30 47 AM" src="https://github.com/user-attachments/assets/8af0fb2b-659f-4de4-ba94-3332e218fedf" />
+
+- 4th:
+- <img width="418" height="87" alt="Screenshot 2026-02-19 at 2 32 26 AM" src="https://github.com/user-attachments/assets/7d7c89a2-defa-49f7-932d-3019535cc9c5" />
+
+- 5th:
+- <img width="487" height="85" alt="Screenshot 2026-02-19 at 2 34 10 AM" src="https://github.com/user-attachments/assets/e3f89317-6ca3-4810-80ca-dc91e10fdd7c" />
+
+
+- Tied concepts to:
+  - Time Series Data  
+  - Probability & Statistics  
+  - Modeling stochastic processes  
+
+---
+
+## 🧠 Phase 1 Conceptual Pillars  
+- **Logic:** Frequency Finder — Categorizing & Counting  
+- **Ethics:** Data Cleaner — Sanitizing & Filtering  
+- **Simulation:** Random Walk — Modeling Uncertainty  
+
+---
+
+## 🚀 Git & Repo Management Progress  
+- Pushed **Data Cleaner (Data Sanitizer)** project via Git.  
+- Pushed **Random Walk** project via Git.  
+- Now **3 projects pushed via Git CLI**.  
+- Refactored repo structure:
+  - Created folders for each project  
+  - Used `git mv` to reorganize files  
+  - Committed and pushed structured project directories  
+  - Will update and add README.md files for project documentation  
+
+---
+
+## 🧭 AI/ML Journey Reflection  
+- Questioning where **AI integration layers on top of traditional programming**.  
+- Recognizing that:
+  - Programming is foundational infrastructure  
+  - AI/ML builds adaptive intelligence on top of deterministic systems  
+- Reflected on **vibe coding vs traditional engineering**:
+  - Vibe coding accelerates prototyping  
+  - Engineers ensure robustness, deployment, scaling, and maintenance  
+- Strategy: **Learn both paradigms and merge them for leverage**.  
+- Long-term vision: evolve from beginner programmer → AI/ML Engineer with hybrid technical + AI-native skillset.  
+
+---
+
+## 🧠🥷🏽 Sensei Insight  
+- Inspired by David H. Blackwell’s legacy and intent to study his work deeper.  
+- Phase 1 is only the beginning—building foundational mental models before deeper AI integration.  
+
+---
+
+
 ## 15 Feb 26
 
 ## 📘 Python Learning Progress — Module 2 Review & Module 3 Intro
