@@ -3,6 +3,151 @@
 ## 
 
 
+
+# 📅 23 Mar 26
+
+## 🎯 Focus
+- Bridge music technology with blockchain concepts
+- Continue Blackwell-inspired probability project
+- Apply Python to real-world and experimental systems
+
+---
+
+## 📚 Topics Covered
+- APIs (intro exposure through real-world platforms)
+- Probability and simulation (Random Walk experiments)
+- Bias detection in stochastic systems
+- Law of Large Numbers
+- Signal vs Noise concepts
+
+---
+
+## 💻 What I Worked On
+- Explored integrating music technology with blockchain concepts
+- Researched API usage from platforms previously used
+- Continued working with Python in music-related workflows
+- Built and tested a **Bias Detector** simulation:
+	- Two walkers:
+		- Fair Walker (50/50)
+		- Biased Walker (60/40)
+	- Steps per walk: 100
+	- Number of experiments: 1000
+
+---
+
+## 🧪 Experiment Results (100 Steps)
+
+### Attempt 1:
+- Fair Walker "tricked" system: 97 times  
+- Deception Rate: 9.7%
+
+### Attempt 2:
+- Fair Walker "tricked" system: 84 times  
+- Deception Rate: 8.4%
+
+### Attempt 3:
+- Fair Walker "tricked" system: 78 times  
+- Deception Rate: 7.8%
+
+✅ Insight:
+- Biased Walker becomes distinguishable over time
+- Some uncertainty still exists with limited data
+
+---
+
+## 🧪 Experiment Results (1000 Steps)
+
+### Attempt 1:
+- Fair Walker "tricked" system: 0 times  
+- Deception Rate: 0.0%
+
+### Attempt 2:
+- Fair Walker "tricked" system: 0 times  
+- Deception Rate: 0.0%
+
+### Attempt 3:
+- Fair Walker "tricked" system: 0 times  
+- Deception Rate: 0.0%
+
+✅ Insight:
+- Increasing data eliminates ambiguity
+- Results become more consistent and reliable
+
+---
+
+## 🧠 Key Concepts Learned
+- More data leads to more reliable conclusions
+- Small sample sizes introduce noise and uncertainty
+- Larger sample sizes reveal underlying patterns (signal)
+- Bias detection improves with increased observations
+- Simulation can model real-world uncertainty
+
+---
+
+## 🔁 What I Practiced
+- Running multiple simulations (experiments)
+- Comparing outcomes across different configurations
+- Adjusting parameters (steps per walk)
+- Interpreting probabilistic results
+
+---
+
+## ⚠️ Challenges Faced
+- Understanding why results drastically changed when increasing steps
+- Interpreting probabilistic outcomes intuitively
+- Trusting results that initially seemed “too perfect”
+
+---
+
+## 💡 Insights / Realizations
+- The Law of Large Numbers explains convergence toward expected outcomes
+- Signal vs Noise applies across domains (data science and music/audio engineering)
+- More data reduces randomness and increases clarity
+- Initial skepticism can lead to deeper understanding when investigated
+
+<img width="733" height="210" alt="Screenshot 2026-03-24 at 12 56 20 PM" src="https://github.com/user-attachments/assets/b1447cc0-b05b-498e-b961-a58e81e52a86" />
+
+
+---
+
+## 🔎 Code Behavior Breakdown
+- Each experiment simulates two walkers over a set number of steps
+- Outcomes are compared to determine which walker appears biased
+- Deception occurs when the Fair Walker appears biased due to randomness
+- Increasing steps reduces randomness and stabilizes results
+
+---
+
+## 🧩 Pattern Recognition
+- Random systems require sufficient data to reveal true behavior
+- Noise dominates in small samples, signal dominates in large samples
+- Repeated experimentation leads to more reliable conclusions
+
+---
+
+## 🔗 Connection to AI/ML
+- This project mirrors real ML concepts:
+	- Training data size impacts model accuracy
+	- Small datasets → higher error rates
+	- Large datasets → improved confidence
+- Relates to:
+	- Bayesian thinking (prior → evidence → posterior)
+	- Decision-making under uncertainty
+- Real-world implication:
+	- In systems like trading bots or self-driving cars, uncertainty can lead to costly errors
+
+---
+
+## 🚀 Next Steps
+- Experiment with different bias levels (e.g., 55/45, 70/30)
+- Visualize results (graphs, distributions)
+- Introduce thresholds for decision-making
+- Continue integrating probability concepts with real-world applications (music, automation, blockchain)
+
+
+
+--- 
+
 # 📅 11 Mar 26
 
 ## 🎯 Focus
