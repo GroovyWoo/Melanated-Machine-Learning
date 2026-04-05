@@ -2,7 +2,96 @@
 
 ## 
 
+# 📅 26 March '26
 
+## 🎯 Focus
+- Began Google IT Automation with Python Professional Certificate
+- Start Course 2: Using Python to Interact with the Operating System
+- Understand environment setup and Python execution workflow
+
+---
+
+## 📚 Topics Covered
+- Python installation and environment setup
+- Virtual environments (`venv`)
+- Running Python scripts
+- Modules and basic project structure
+
+---
+
+## 💻 What I Worked On
+- Started Course 2 of the certificate program
+- Completed Module 1: "Getting Your Python On"
+- Reviewed how to:
+  - Install Python
+  - Set up a development environment
+  - Run Python scripts
+- Explored the concept of virtual environments
+
+---
+
+## 🧠 Key Concepts Learned
+- Virtual environments isolate dependencies for each project
+- Proper environment setup is essential for scalable development
+- Python modules help organize and reuse code
+- Running scripts from the command line is part of real-world workflows
+
+---
+
+## 🔁 What I Practiced
+- Setting up and navigating a Python environment
+- Running Python scripts manually
+- Understanding how modules are used within a project
+
+---
+
+## ⚠️ Challenges Faced
+- Determining when to create separate virtual environments
+- Understanding how environment setup impacts larger projects
+- Translating setup steps into real-world workflow habits
+
+---
+
+## 💡 Insights / Realizations
+- Each project should ideally have its own isolated environment
+- Environment management becomes more important as projects grow in complexity
+- Current setup (single environment) works for now but may need to scale later
+- Development setup is part of the “engineering process,” not just coding
+
+---
+
+## 🔎 Code Behavior Breakdown
+- Virtual environments create isolated spaces with their own dependencies
+- Python scripts can be executed directly from the command line
+- Modules allow code to be split into reusable components
+
+---
+
+## 🧩 Pattern Recognition
+- Every project has its own ecosystem (dependencies, structure, setup)
+- Isolation prevents conflicts between different projects
+- Organization at the environment level supports long-term scalability
+
+---
+
+## 🔗 Connection to AI/ML
+- Virtual environments are essential for:
+	- Managing ML libraries (NumPy, pandas, scikit-learn, etc.)
+	- Reproducibility of experiments
+- Environment setup is critical in:
+	- Model deployment
+	- Collaboration across teams
+- Clean environments prevent dependency conflicts in ML pipelines
+
+---
+
+## 🚀 Next Steps
+- Continue Course 2 (Operating System interactions)
+- Practice creating virtual environments for small projects
+- Begin applying environment setup to personal projects (music, simulations)
+- Explore how modules can be used to organize larger scripts
+
+---
 
 # 📅 23 Mar 26
 
