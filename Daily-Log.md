@@ -2,6 +2,189 @@
 
 ## 
 
+# 📅 10 Apr 26
+
+## 🎯 Focus
+- Build Blackwell-inspired probability projects
+- Apply Bayesian thinking to real-world scenarios (music classification)
+- Explore Expected Value through simulation (music label scenario)
+
+---
+
+## 📚 Topics Covered
+- Bayesian Inference (Prior → Likelihood → Posterior)
+- Probability and likelihood estimation
+- Inference in AI systems
+- Expected Value (EV)
+- Decision-making under uncertainty
+
+---
+
+## 💻 What I Worked On
+- Created `genre_classifier.py` (Bayesian classification model)
+- Built a Musical Risk Simulator / Label Simulator
+- Applied probability concepts to music and business scenarios
+- Created README files for completed projects
+- Improved overall GitHub structure and presentation
+
+---
+
+## 🧪 Experiment 1 — Genre Classifier (Bayesian Model)
+
+### Initial Setup:
+- Prior Probability (Afrobeats): 30%
+- Evidence: 110 BPM
+
+### Results:
+- Posterior Probability: 77.42%
+- ✅ Strong support for Afrobeats classification
+
+### Repeated Tests:
+- Consistent results across (3) multiple runs (deterministic calculation)
+
+---
+
+### Adjusted Prior:
+- New Prior: 1%
+
+### Results:
+- Posterior Probability: 7.48%
+- ✅ Evidence still supports Afrobeats, but with lower confidence
+
+---
+
+## 🧠 Key Concepts Learned (Bayesian Thinking)
+- Prior represents initial belief before evidence
+- Evidence updates belief through likelihood
+- Posterior represents updated probability after evidence
+- Strong evidence can shift probability, but prior still matters
+- Bayesian logic is foundational for inference systems
+
+---
+
+## 💡 Insights / Realizations (Recommendation Systems)
+- Different domains require different confidence thresholds:
+  - Music (low cost) → more experimental recommendations
+  - Movies (medium cost) → higher certainty needed
+  - Books (high cost) → very high certainty required
+- Prior user behavior becomes more important as decision cost increases
+
+---
+
+## 🧪 Experiment 2 — Musical Risk Simulator (Expected Value)
+
+### Scenario:
+- Investment: $10,000 per artist
+- Total Artists: 100
+- Goal: Evaluate long-term profitability using Expected Value
+
+---
+
+### Results:
+
+#### Test 1:
+- Successes: 13
+- Failures: 87
+- Final Balance: $430,000
+
+<img width="446" height="130" alt="Screenshot 2026-04-10 at 4 38 01 PM" src="https://github.com/user-attachments/assets/fbcf0cb1-9950-4a92-b33b-0933cf80e14a" />
+
+
+#### Test 2:
+- Successes: 18
+- Failures: 82
+- Final Balance: $980,000
+
+<img width="448" height="130" alt="Screenshot 2026-04-10 at 4 38 55 PM" src="https://github.com/user-attachments/assets/ad695fa1-36bf-42c0-a318-c6f692722083" />
+
+
+#### Test 3:
+- Successes: 25
+- Failures: 75
+- Final Balance: $1,750,000
+
+<img width="437" height="129" alt="Screenshot 2026-04-10 at 4 39 50 PM" src="https://github.com/user-attachments/assets/6903c118-ed39-4b41-b173-afc05163198f" />
+
+
+
+✅ Insight:
+- Positive Expected Value leads to long-term profitability
+- Outcomes vary, but strategy holds over multiple trials
+- "May the odds be ever in your favor”, word to The Hunger Games. 
+
+
+<img width="651" height="223" alt="Screenshot 2026-04-10 at 4 53 45 PM" src="https://github.com/user-attachments/assets/52119670-7c28-4334-9914-bec2dcb2ff84" />
+
+---
+
+## 🧠 Key Concepts Learned (Expected Value)
+- EV determines long-term success, not short-term outcomes
+- Variance exists in individual runs, but trends stabilize over time
+- Decision-making should be based on EV, not individual outcomes
+
+
+<img width="645" height="249" alt="Screenshot 2026-04-10 at 4 23 01 PM" src="https://github.com/user-attachments/assets/53b706ee-ca17-4457-9372-af552bf1b598" />
+
+
+---
+
+## 🔁 What I Practiced
+- Applying Bayesian inference to classification problems
+- Running simulations to test probabilistic systems
+- Adjusting parameters (priors, probabilities)
+- Interpreting results across multiple trials
+
+---
+
+## ⚠️ Challenges Faced
+- Understanding how priors influence final outcomes
+- Interpreting probabilistic outputs intuitively
+- Translating theory into real-world scenarios
+
+---
+
+## 🔎 Code Behavior Breakdown
+- Genre classifier updates probability based on new evidence (BPM)
+- Simulator runs multiple trials to model uncertainty
+- Randomness introduces variation, but trends follow expected probabilities
+- Outputs reflect statistical patterns over repeated experiments
+
+---
+
+## 🧩 Pattern Recognition
+- Inference = updating beliefs with new data
+- Systems behave differently based on:
+  - initial assumptions (priors)
+  - available data (evidence)
+- Long-term outcomes depend on probability distributions, not single events
+
+---
+
+## 🔗 Connection to AI/ML
+- Bayesian inference is used in:
+  - classification models
+  - recommendation systems
+- Expected Value is critical in:
+  - decision systems
+  - reinforcement learning
+- Inference Engineering:
+  - conditioning models for specific domains or communities
+- Real-world applications:
+  - music recommendations
+  - content platforms
+  - financial decision-making
+
+---
+
+## 🚀 Next Steps
+- Expand classifier with additional features (genre, tempo range, metadata)
+- Visualize probability distributions and simulation results
+- Experiment with different priors and likelihoods
+- Continue building Blackwell-inspired systems
+- Integrate concepts into larger automation or AI-driven projects
+
+
+---
 
 # 📅 9 Apr 26
 
