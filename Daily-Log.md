@@ -2,6 +2,107 @@
 
 ## 
 
+# 📅 11 Apr 26
+
+## 🎯 Focus
+- Begin Course 2 of IBM Generative AI Engineering Professional Certificate
+- Understand foundational concepts and applications of Generative AI
+- Explore tools, use cases, and differences between Gen AI and Agentic AI
+
+---
+
+## 📚 Topics Covered
+- Introduction to Generative AI
+- Evolution of Generative AI
+- Generative AI vs Traditional AI
+- Applications of Generative AI across industries
+- Tools for Generative AI and Code Generation
+- Generative AI vs Agentic AI:
+  - Reactive vs Proactive systems
+
+---
+
+## 💻 What I Worked On
+- Completed Module 1: Intro and Capabilities of Generative AI
+  - Practice quiz (completed)
+  - Graded quiz (passed)
+- Completed Module 2: Applications and Tools of Generative AI
+  - Worked through role-playing scenario
+  - Reviewed AI tools and applications
+  - Practice quiz (completed)
+  - Graded quiz (passed)
+- Completed Module 3: Course Quiz, Project, and Wrap-Up
+  - Practice quiz (completed)
+  - Graded quiz (passed)
+
+---
+
+## 🧠 Key Concepts Learned
+- Generative AI creates new content based on learned patterns
+- Gen AI differs from traditional AI in its ability to generate rather than classify
+- Agentic AI systems are proactive, while Generative AI systems are reactive
+- AI tools must be used intentionally based on desired outcomes
+- Code generation tools can accelerate development but still require understanding
+
+---
+
+## 🔁 What I Practiced
+- Reinforcing understanding of Generative AI concepts
+- Interpreting real-world use cases across industries
+- Engaging with role-based AI scenarios
+- Evaluating AI tools for different purposes
+
+---
+
+## ⚠️ Challenges Faced
+- Role-playing scenario mismatch between personal reasoning and expected answers
+- Determining when to engage fully with labs vs skip based on prior experience
+- Balancing tool usage with foundational understanding
+
+---
+
+## 💡 Insights / Realizations
+- AI tools are only as effective as the user’s intent and understanding
+- Hands-on experience remains more impactful than passive learning
+- Code generation can accelerate progress but should not replace foundational learning
+- Generative AI (reactive) vs Agentic AI (proactive) is a key distinction for future systems
+- Some tools become outdated quickly, highlighting the importance of learning concepts over platforms
+
+---
+
+## 🔎 Code Behavior Breakdown
+- N/A (concept-focused module with tool-based exposure)
+
+---
+
+## 🧩 Pattern Recognition
+- AI capabilities evolve rapidly, but core concepts remain consistent
+- Many tools overlap in functionality but differ in execution
+- Understanding intent is more important than memorizing tools
+
+---
+
+## 🔗 Connection to AI/ML
+- Generative AI builds on deep learning and neural network architectures
+- Code generation tools assist in development workflows
+- Agentic AI represents the next step in autonomous system design
+- Tool usage aligns with inference and application layers of AI systems
+
+---
+
+## 🚀 Next Steps
+- Continue IBM AI Engineering certification (Course 3)
+- Begin applying Generative AI tools to personal projects
+- Explore simple implementations of:
+  - Code generation workflows
+  - Prompt engineering techniques
+- Integrate Gen AI concepts into:
+  - Music-related systems
+  - Automation and AI agent projects
+
+
+---
+
 # 📅 10 Apr 26
 
 ## 🎯 Focus
