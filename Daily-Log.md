@@ -2,6 +2,104 @@
 
 ## 
 
+# 📅 Daily Log — April 7, 2026
+
+## 🎯 Focus
+- Begin IBM Generative AI Engineering Professional Certificate
+- Explore AI fundamentals, terminology, and application domains
+- Evaluate how AI Engineering concepts connect to current projects
+
+---
+
+## 📚 Topics Covered
+- Types of AI
+- Chatbots and AI tools
+- Cognitive Computing
+- Machine Learning vs Deep Learning
+- Neural Networks (intro)
+- Generative AI models:
+  - VAEs
+  - GANs
+  - Autoregressive models
+  - Transformers
+- Large Language Models (LLMs)
+- Natural Language Processing (NLP)
+
+---
+
+## 💻 What I Worked On
+- Completed Module 1: Introduction and Applications of AI
+  - Hands-on labs
+  - Quiz (passed)
+- Completed Module 2: AI Concepts, Terminology, and Application Domains
+  - Quiz (passed)
+- Reviewed previously learned material from prior programs (EdX / Verizon Skills Forward)
+
+---
+
+## 🧠 Key Concepts Learned
+- AI consists of multiple subfields with different purposes and techniques
+- Generative AI models differ in how they create and process data
+- LLMs and NLP focus on understanding and generating human language
+- Terminology provides a framework, but application builds true understanding
+
+---
+
+## 🔁 What I Practiced
+- Reinforcing AI terminology and conceptual understanding
+- Completing hands-on labs related to AI tools
+- Connecting previously learned concepts to current knowledge
+
+---
+
+## ⚠️ Challenges Faced
+- Feeling repetition from previously learned material
+- Balancing conceptual learning vs hands-on application
+- Determining immediate practical use of AI Engineering concepts
+
+---
+
+## 💡 Insights / Realizations
+- Terminology alone is not enough—hands-on building is where real learning happens
+- Repetition can reinforce foundational understanding
+- Current focus should remain on building and applying knowledge
+- AI concepts will likely become more valuable as course difficulty increases
+- Maintaining multiple learning tracks requires balance and prioritization
+
+---
+
+## 🔎 Code Behavior Breakdown
+- N/A (concept-focused modules with limited coding emphasis)
+
+---
+
+## 🧩 Pattern Recognition
+- Many AI concepts build on each other (ML → DL → Gen AI → LLMs)
+- Similar foundational ideas appear across different courses and platforms
+- Understanding improves through repeated exposure and application
+
+---
+
+## 🔗 Connection to AI/ML
+- Reinforces foundational understanding of AI systems and architectures
+- Provides context for:
+  - Model types
+  - Learning approaches
+  - Real-world applications
+- Supports long-term goal of becoming an AI/ML Engineer
+
+---
+
+## 🚀 Next Steps
+- Continue IBM AI Engineering course (next modules)
+- Prioritize hands-on projects alongside theoretical learning
+- Continue Blackwell-inspired probability projects
+- Progress through Google IT Automation with Python Certificate
+- Identify opportunities to apply AI concepts to current projects
+
+
+---
+
 # 📅 March ‘26 Monthly Wrap-Up, Recap & Reflection
 
 
