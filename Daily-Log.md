@@ -2,6 +2,52 @@
 
 ## 
 
+# 📅 13 Apr 26
+
+## 🧠 Focus
+- Began Course 3 of IBM Generative AI Engineering Professional Certificate  
+- Topic: Generative AI — Prompt Engineering Basics  
+
+---
+
+## ⚙️ Work Completed
+- Reviewed core concepts of prompt engineering (refresher)
+- Covered:
+  - Types of prompts
+  - Prompting use cases
+- Explored lab examples (did not complete full hands-on activities)
+- Completed:
+  - Practice quizzes
+  - Graded quizzes for all three modules  
+
+---
+
+## 💡 Key Concepts
+- Prompt Engineering Fundamentals  
+- Types of Prompts (instructional, contextual, role-based, etc.)  
+- Use Case-Based Prompting  
+- The **Playoff Method** (new concept)
+  - Comparable to Tree of Thought-style reasoning  
+- Importance of structured communication with AI systems  
+
+---
+
+## 🔍 Reflections
+- Much of the material felt like a refresher due to prior experience with prompting  
+- Labs are valuable for beginners but less necessary at current skill level  
+- The Playoff Method introduced a new perspective on guiding model reasoning  
+- Reinforced the idea that:
+  > Prompting is not just technical — it is an art of communication  
+
+---
+
+## ⏭️ Next Steps
+- Continue progressing through Course 3  
+- Explore opportunities to apply prompt engineering within current systems (HMIS / AI blueprint)  
+- Begin thinking about structured prompt design for agent-based workflows 
+
+---
+
 # 📅 11 Apr 26
 
 ## 🎯 Focus
