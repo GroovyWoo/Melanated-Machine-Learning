@@ -2,6 +2,136 @@
 
 ## 
 
+# 📅 18 Apr 26 
+
+## 🧠 Focus
+- Continued Google IT Support Professional Certificate  
+- Course: Technical Support Fundamentals (Course 1 of 6)  
+- Module 2: Hardware  
+
+---
+
+## ⚙️ Work Completed
+- Reviewed core hardware components and system architecture  
+- Studied:
+  - CPU structure and cache levels (L1, L2, L3)
+  - Overclocking (pros, cons, safety considerations)
+  - CPU compatibility with motherboards (LGA vs PGA sockets)
+  - 32-bit vs 64-bit architecture  
+- Covered memory types:
+  - DRAM, SDRAM, DDR SDRAM (DDR1 → DDR4 progression)  
+- Learned motherboard structure:
+  - Northbridge vs Southbridge  
+  - Form factors (importance in system builds)  
+- Explored storage interfaces:
+  - ATA, SATA, NVMe  
+- Reviewed power fundamentals:
+  - AC vs DC
+  - Voltage, current (amps), and wattage  
+  - Troubleshooting and safety considerations  
+- Studied system assembly:
+  - Step-by-step computer build process  
+  - Proper grounding (anti-static precautions)  
+  - Thermal paste application  
+- Covered firmware and boot process:
+  - BIOS / UEFI
+  - CMOS settings
+  - Beep codes for troubleshooting  
+- Reviewed connectors and ports (computer + mobile)  
+- Explored mobile systems:
+  - System on a Chip (SoC)
+  - Charge cycles  
+- Studied display technologies:
+  - LCD (IPS, TN, VA)
+  - OLED / AMOLED
+  - Mini-LED  
+- Clarified networking/data concepts:
+  - MB vs Mb/s (storage vs transfer rate)  
+- Reviewed glossary and key terms  
+
+---
+
+## 💡 Key Concepts
+- CPU cache hierarchy:
+  - L1 (fastest, smallest)  
+  - L2 (balanced)  
+  - L3 (largest, slowest)  
+- Hardware compatibility is critical when building systems  
+- Difference between storage (MB) and transfer speed (Mb/s)  
+- Evolution of hardware standards (e.g., 20-pin → 24-pin ATX)  
+- SoC design in mobile devices integrates multiple components into a single chip  
+- Importance of proper power management and hardware safety  
+
+---
+
+## 🔍 Reflections
+- This module reinforced a strong foundation in hardware and system architecture  
+- The evolution of hardware (CPUs, RAM, connectors) highlights how systems scale over time  
+- The discovery question around ATX pin evolution sparked curiosity about future hardware design and scalability  
+- Interest in SoC development and its future impact on computing (size, efficiency, integration)  
+- Reinforced the importance of understanding both:
+  > Physical systems (hardware) and logical systems (software/AI)  
+
+---
+
+## ⏭️ Next Steps
+- Continue progressing through Technical Support Fundamentals  
+- Strengthen understanding of hardware ↔ software interaction  
+- Explore connections between system architecture and AI system design (HMIS)  
+
+--- 
+
+# 📅 14 Apr 26 
+
+## 🧠 Focus
+- Switched back to Google IT Support Professional Certificate  
+- Course: Technical Support Fundamentals (Course 1 of 6)  
+- Module 1: Introduction to IT  
+
+---
+
+## ⚙️ Work Completed
+- Reviewed foundational IT concepts:
+  - Binary (1s and 0s)
+  - ASCII and UTF-8 encoding
+- Studied:
+  - Binary conversions (binary ↔ decimal ↔ characters)
+  - Logic Gates:
+    - NOT, AND, OR, XOR, NAND, XNOR
+- Covered system structure:
+  - 4 Layers of Computing:
+    - Hardware → OS → Software → User  
+- Completed:
+  - Practice quiz
+  - Graded quiz  
+- Module 1 completed  
+
+---
+
+## 💡 Key Concepts
+- 8 bits = 1 byte  
+- ASCII vs UTF-8 (extended character support, including emojis)  
+- Logic Gates as the foundation of computation and decision-making  
+- Binary as the core language of computers  
+- Importance of understanding binary conversions in IT roles  
+
+---
+
+## 🔍 Reflections
+- Much of the material served as a refresher, reinforcing foundational knowledge  
+- Logic gates stood out as a key bridge between hardware-level operations and higher-level programming logic  
+- Reinforced the idea that:
+  > All complex systems ultimately reduce to simple binary decisions  
+
+---
+
+## ⏭️ Next Steps
+- Continue with Module 2 of Technical Support Fundamentals  
+- Strengthen understanding of system layers and their interactions  
+- Look for connections between logic gates and decision-making systems (AI / probability / HMIS)  
+
+---
+
 # 📅 13 Apr 26
 
 ## 🧠 Focus
