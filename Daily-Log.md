@@ -2,6 +2,240 @@
 
 ## 
 
+# 📅 21 April 26 
+
+## 🧠 Focus
+- Continued Google IT Support Professional Certificate  
+- Course: Technical Support Fundamentals (Course 1 of 6)  
+- Modules Covered:
+  - Qwiklabs (Google Skills)
+  - Module 4: Networking  
+  - Module 5: Software  
+  - Module 6: Troubleshooting  
+
+---
+
+## ⚙️ Work Completed
+
+### 🧪 Qwiklabs / Google Skills
+- Completed hands-on exercises:
+  - Creating folders in Windows environment  
+  - Creating folders in Linux environment  
+- Followed troubleshooting guidelines and best practices  
+- Completed graded assignment  
+
+---
+
+### 🌐 Module 4: Networking
+- Studied networking fundamentals:
+  - IP addressing (IPv4 vs IPv6)  
+  - TCP/IP  
+  - DNS  
+  - Internet Service Providers (ISP)  
+  - Networking cables and equipment  
+- Introduced to:
+  - Network Stack (to explore further)  
+  - Network Address Translation (NAT)  
+- Explored:
+  - Internet of Things (IoT)  
+  - Cybersecurity fundamentals  
+    - “We prepare for being hacked by understanding how hacking works”  
+- Completed graded assignment  
+
+---
+
+### 💻 Module 5: Software
+- Learned scripting languages:
+  - Windows:
+    - PowerShell (.ps1)  
+    - Batch (.bat)  
+    - VBScript (.vbs)  
+  - Linux/Unix:
+    - Shell scripting (.sh)  
+  - Cross-platform:
+    - JavaScript (.js)  
+    - Python (.py)  
+- Covered scripting use cases:
+  - Automation  
+  - System updates  
+  - Backups  
+  - Data collection  
+- Reviewed risks:
+  - Malware introduction  
+  - System misconfiguration  
+- Studied:
+  - Application vs System Software  
+  - Firmware (BIOS/UEFI)  
+  - Programming types:
+    - Assembly  
+    - Compiled languages  
+    - Interpreted languages  
+- Revisited Git fundamentals  
+- Lab:
+  - Installing, updating, removing software (via VM)
+  - Delayed due to slow download speeds  
+
+---
+
+### 🛠️ Module 6: Troubleshooting
+- Reviewed troubleshooting methodologies and scenarios  
+- Learned about bug tracking systems:
+  - Bugzilla  
+  - JIRA  
+  - Redmine  
+- Emphasized importance of documentation:
+  - Maintaining audit trails  
+  - Tracking solutions and failures  
+- Covered career preparation:
+  - Resume tips  
+  - Interview preparation  
+- Completed graded assignment  
+
+---
+
+## 💡 Key Concepts
+- Networking fundamentals (IP, DNS, TCP/IP)  
+- Importance of cybersecurity awareness  
+- Scripting as a tool for automation and system control  
+- Differences between compiled and interpreted languages  
+- Troubleshooting as a structured, repeatable process  
+- Documentation as a long-term system asset  
+
+---
+
+## 🔗 System Connections
+- **Networking → Data Flow in HMIS**
+  - How data moves between components mirrors system communication layers  
+
+- **Scripting → Automation Layer**
+  - Direct parallel to automating workflows in HMIS and AI pipelines  
+
+- **Cybersecurity → System Integrity**
+  - Ensuring AI systems are reliable, safe, and not easily exploited  
+
+- **Troubleshooting → Debugging AI Systems**
+  - Identifying errors in logic, outputs, or data pipelines  
+
+- **Documentation → MML GitHub Logs**
+  - Creating an audit trail of learning, builds, and system evolution  
+
+---
+
+## 🔍 Reflections
+- This phase tied together multiple foundational areas: networking, software, and troubleshooting  
+- Reinforced the importance of understanding how systems communicate and operate at scale  
+- Scripting stood out as a key bridge between manual processes and automation  
+- Troubleshooting and documentation emphasized long-term thinking and system reliability  
+- Completion of Course 1 marks a solid milestone in foundational IT knowledge  
+
+---
+
+## ⏭️ Next Steps
+- Pause on Coursera temporarily to rebalance focus  
+- Begin integrating networking and scripting concepts into projects (HMIS)  
+- Explore Network Stack concepts in more depth  
+- Continue strengthening Git and system-level understanding  
+- Prepare for Course 2: The Bits and Bytes of Computer Networking  
+
+---
+
+# 📅 20 Apr 26 
+
+## 🧠 Focus
+- Continued Google IT Support Professional Certificate  
+- Course: Technical Support Fundamentals (Course 1 of 6)  
+- Module 3: Operating Systems  
+
+---
+
+## ⚙️ Work Completed
+- Studied OS architecture:
+  - Kernel Space:
+    - Process Manager
+    - Memory Manager
+    - File Manager
+    - I/O Manager  
+  - User Space:
+    - Applications  
+- Covered file handling:
+  - Data vs Metadata  
+  - File systems and types  
+  - Datablocks and block storage  
+  - File extensions  
+- Learned process management concepts:
+  - Time slicing (CPU allocation)  
+  - Swap space  
+- Explored user interaction layers:
+  - GUI (Graphical User Interface)  
+  - Shell (command-line interface)  
+    - Bash (Bourne Again Shell)  
+- Reviewed system logs:
+  - Purpose and importance (system “diary”)  
+- Studied boot process:
+  - BIOS / UEFI  
+  - Bootloader  
+  - Boot order and troubleshooting  
+  - Alternative boot methods (recovery, dual booting)  
+- Explored OS installation practices:
+  - Scalability considerations  
+- Learned about Virtual Machines (VMs):
+  - Installation and use cases  
+- Reviewed operating systems:
+  - Windows (10 vs 11)  
+  - Linux (Ubuntu installation and setup)  
+  - Chrome OS (cloud-based system design)  
+  - macOS (Apple ecosystem)  
+
+---
+
+## 💡 Key Concepts
+- Separation of Kernel Space vs User Space  
+- Time slicing enables efficient CPU multitasking  
+- Swap space extends memory virtually  
+- Shell allows deeper system control beyond GUI  
+- Logs are critical for debugging and system monitoring  
+- Boot process determines system startup integrity  
+- Virtual Machines enable isolated and flexible environments  
+- Cloud-based systems (Chrome OS) reduce dependency on local storage  
+
+---
+
+## 🔗 System Connections
+- **Kernel Space → Core System Logic (HMIS)**  
+  - Acts like the “engine” handling critical operations  
+
+- **User Space → AI / User Interface Layer**  
+  - Where users interact with outputs (recommendations, insights)  
+
+- **Shell (CLI) → Direct System Control**  
+  - Similar to how developers interact directly with backend systems  
+
+- **Logs → Debugging AI / System Behavior**  
+  - Useful for tracking decisions, outputs, and errors in HMIS  
+
+- **Virtual Machines → Isolated AI Environments**  
+  - Can be used for testing models, simulations, or agents safely  
+
+---
+
+## 🔍 Reflections
+- This module clarified how operating systems manage both hardware and software interactions  
+- The separation between kernel and user space highlights how systems maintain structure and control  
+- The boot process and recovery methods emphasize the importance of system reliability  
+- Virtual Machines stood out as a powerful tool for experimentation and scalable environments  
+- Reinforced that:
+  > Systems are layered — and each layer has a specific responsibility  
+
+---
+
+## ⏭️ Next Steps
+- Continue progressing through Technical Support Fundamentals  
+- Explore basic shell commands (Bash) more actively  
+- Begin thinking about logging and system monitoring for HMIS  
+- Revisit Ubuntu setup if USB is available for hands-on practice  
+
+---
+
 # 📅 18 Apr 26 
 
 ## 🧠 Focus
