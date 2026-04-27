@@ -2,6 +2,133 @@
 
 ## 
 
+# 📅 27 Apr 26 
+
+## 🧠 Focus
+- Continued AWS AI & ML Scholars Program (AWS x Udacity)  
+- Lesson / Module 4: Developing Machine Learning Solutions  
+
+---
+
+## ⚙️ Work Completed
+- Studied Machine Learning Development Lifecycle (end-to-end):
+  - Business goal identification  
+  - ML problem framing  
+  - Data processing (collection, preprocessing, feature engineering)  
+  - Model development (training, tuning, evaluation)  
+  - Model deployment (inference/prediction)  
+  - Model monitoring  
+  - Model retraining  
+
+- Explored MLOps concepts:
+  - Operationalizing ML systems across lifecycle  
+  - Focus areas:
+    - People  
+    - Processes  
+    - Technology  
+  - Key principles:
+    - Version control  
+    - Automation  
+    - CI/CD  
+    - Model governance  
+
+- Reviewed AWS ML ecosystem:
+  - [Amazon SageMaker]   
+    - End-to-end ML lifecycle support  
+    - SageMaker Studio (web-based UI)  
+    - Model Monitor, Clarify, JumpStart  
+  - SageMaker JumpStart:
+    - Pretrained models for rapid development  
+  - SageMaker Canvas:
+    - No-code ML predictions  
+
+- Studied model evaluation:
+  - Training vs Validation vs Test datasets  
+  - Classification metrics:
+    - Confusion Matrix  
+    - Precision  
+    - Recall  
+    - AUC-ROC  
+  - Regression metrics:
+    - Mean Squared Error (MSE)  
+    - R²  
+
+- Reviewed deployment strategies:
+  - Self-hosted API  
+  - Managed API  
+- Explored inference types:
+  - Real-time inference  
+  - Batch transformation  
+  - Asynchronous inference  
+  - Serverless (on-demand) inference  
+
+- Learned feature engineering purpose:
+  - Transform raw data into meaningful variables  
+
+- Completed Knowledge Check  
+
+---
+
+## 💡 Key Concepts
+- ML lifecycle is iterative and continuous  
+- Business goals drive the entire ML process  
+- Model evaluation depends on problem type (classification vs regression)  
+- Deployment strategy impacts scalability, cost, and performance  
+- MLOps enables reliable, repeatable, and scalable ML systems  
+- Feature engineering is critical to model performance  
+
+---
+
+## 🔗 System Connections
+- **ML Lifecycle → HMIS System Architecture**
+  - Mirrors full system flow: input → processing → decision → output → feedback  
+
+- **MLOps → System Scalability**
+  - Enables automation, monitoring, and long-term system reliability  
+
+- **Inference Types → System Behavior**
+  - Real-time → live recommendations  
+  - Batch → simulations and analysis  
+
+- **Feature Engineering → Data Quality Layer**
+  - Better features → stronger decision-making systems  
+
+- **Model Monitoring → Feedback Loop**
+  - Continuous improvement and adaptation over time  
+
+---
+
+## 🔍 Reflections
+- Reinforced the importance of starting with the business problem before building technical solutions  
+- The ML lifecycle highlighted how interconnected each phase is  
+- Raised questions around:
+  - Decision-making timelines in companies (when to continue vs pivot)  
+  - Roles and responsibilities (engineers, data scientists, project managers)  
+- Noted the importance of:
+  > Time and iteration after deployment to determine system effectiveness  
+
+- Hands-on experience is critical:
+  - Understanding concepts is one level  
+  - Applying them brings true clarity  
+
+- Recognized differences between roles:
+  - ML Engineer:
+    - Builds models from scratch  
+    - Focuses on data, training, and optimization  
+  - AI Engineer:
+    - Leverages existing tools and models  
+    - Focuses on integration, deployment, and application  
+
+---
+
+## ⏭️ Next Steps
+- Continue AWS AI Practitioner Challenge  
+- Explore hands-on opportunities with SageMaker (free tier if available)  
+- Begin mapping HMIS to ML lifecycle stages  
+- Strengthen understanding of deployment strategies and trade-offs  
+
+---
+
 # 📅 25 Apr 26 
 
 ## 🧠 Focus
