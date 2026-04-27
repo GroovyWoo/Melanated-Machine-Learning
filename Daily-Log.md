@@ -2,6 +2,88 @@
 
 ## 
 
+# 📅 24 Apr 26 
+
+## 🧠 Focus
+- Continued AWS AI & ML Scholars Program (AWS x Udacity)  
+- Lesson / Module 2: Exploring Artificial Intelligence Use Cases and Applications  
+
+---
+
+## ⚙️ Work Completed
+- Reviewed AI/ML use cases and real-world applications (refresher)  
+- Studied:
+  - Intelligent Document Processing (IDP)  
+  - Determining when to use AI vs traditional solutions  
+- Completed:
+  - Knowledge Check  
+- Explored Generative AI capabilities  
+- Learned key factors for selecting Gen AI models:
+  - Model types  
+  - Performance requirements  
+  - Capabilities  
+  - Constraints  
+  - Compliance  
+- Reviewed model evaluation considerations:
+  - Accuracy  
+  - Reliability  
+  - Consistency over time  
+- Studied system constraints:
+  - Computational resources  
+  - Data availability  
+  - Deployment limitations  
+  - Cost considerations  
+- Covered business metrics for Gen AI:
+  - User satisfaction  
+  - Average revenue per user (ARPU)  
+  - Cross-domain performance  
+  - Conversion rate  
+  - Efficiency  
+- Completed additional Knowledge Check  
+
+---
+
+## 💡 Key Concepts
+- Intelligent Document Processing (IDP) as a practical AI application  
+- Importance of selecting the right model for the right use case  
+- Trade-offs between performance, cost, and scalability  
+- Monitoring models over time to maintain reliability  
+- Aligning AI systems with business metrics and outcomes  
+
+---
+
+## 🔗 System Connections
+- **IDP → Data Processing Layer (HMIS)**
+  - Automating extraction and structuring of music metadata or documents  
+
+- **Model Selection → System Design Decisions**
+  - Choosing the right approach (rule-based, ML, or AI-assisted)  
+
+- **Performance Monitoring → System Reliability**
+  - Ensuring HMIS outputs remain accurate and consistent over time  
+
+- **Business Metrics → System Value**
+  - Measuring effectiveness of recommendations, engagement, and outcomes  
+
+---
+
+## 🔍 Reflections
+- This module reinforced that AI is not always the default solution — choosing the right tool is critical  
+- Intelligent Document Processing sparked ideas for future project development  
+- Model selection is not just technical, but strategic:
+  > It requires balancing performance, cost, and real-world constraints  
+- Business metrics highlighted the importance of aligning technical systems with measurable impact  
+
+---
+
+## ⏭️ Next Steps
+- Continue AWS AI Practitioner Challenge  
+- Explore potential IDP-related project ideas  
+- Begin thinking about evaluation metrics for HMIS  
+- Reinforce understanding of when to use AI vs traditional programming solutions  
+
+---
+
 # 📅 22 Apr 26 
 
 ## 🧠 Focus
