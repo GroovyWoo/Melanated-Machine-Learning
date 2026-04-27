@@ -2,7 +2,92 @@
 
 ## 
 
-# 📅 21 April 26 
+# 📅 22 Apr 26 
+
+## 🧠 Focus
+- Began AWS AI & ML Scholars Program (AWS x Udacity)  
+- Selected Path: AWS Agentic Programmer  
+- Started AWS AI Practitioner Challenge (Phase 1)  
+- Lesson 1 / Module 1: Fundamentals of Machine Learning and Artificial Intelligence  
+
+---
+
+## ⚙️ Work Completed
+- Reviewed core AI/ML concepts (refresher):
+  - Machine Learning fundamentals  
+  - Artificial Intelligence fundamentals  
+- Studied key distinctions:
+  - Batch inferencing vs Real-time inferencing  
+  - Fine-tuning vs Retrieval-Augmented Generation (RAG)  
+- Completed:
+  - Knowledge Check (quiz)  
+  - Additional Knowledge Check  
+- Re-familiarized with:
+  - AWS ML frameworks  
+  - AI/ML services  
+  - Generative AI offerings  
+- Noted program structure:
+  - Agentic AI portion begins July/August  
+- Observed platform considerations:
+  - Cost and pricing models  
+  - Free tier availability for select AWS services  
+
+---
+
+## 💡 Key Concepts
+- **Batch vs Real-Time Inferencing**
+  - Batch: Processes large datasets at once  
+  - Real-time: Immediate predictions on incoming data  
+
+- **Fine-Tuning vs RAG**
+  - Fine-tuning:
+    - Modifies model weights  
+    - Adapts model behavior  
+  - RAG:
+    - Retrieves external knowledge  
+    - Does NOT change model weights  
+
+- **Cloud Trade-Offs**
+  - Performance vs Cost  
+  - Scalability vs Pricing  
+  - Availability vs Resource Usage  
+
+---
+
+## 🔗 System Connections
+- **RAG → HMIS Knowledge Layer**
+  - Can enhance recommendations using external music data without retraining models  
+
+- **Real-Time Inferencing → Live Recommendation Systems**
+  - Enables dynamic, on-the-fly music suggestions  
+
+- **Batch Inferencing → Simulation / Analysis Layer**
+  - Useful for large-scale evaluations (e.g., artist success simulations)  
+
+- **Cloud Cost Models → System Design Constraints**
+  - Influences how AI systems are built, deployed, and scaled  
+
+---
+
+## 🔍 Reflections
+- Much of the material felt like a refresher, reinforcing existing knowledge  
+- The distinction between fine-tuning and RAG stood out as a key concept for future system design  
+- Cost and access to cloud resources is a real factor in hands-on learning and experimentation  
+- Noted the importance of:
+  > Strategically using available resources (free tiers, programs) to maximize growth  
+- Recognized that access alone is not enough — effective utilization is key  
+
+---
+
+## ⏭️ Next Steps
+- Continue AWS AI Practitioner Challenge  
+- Explore AWS free tier options for hands-on experimentation  
+- Begin thinking about integrating RAG into HMIS (future phase)  
+- Prepare for Agentic AI portion of the program (July/August)  
+
+--- 
+
+# 📅 21 Apr 26 
 
 ## 🧠 Focus
 - Continued Google IT Support Professional Certificate  
