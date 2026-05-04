@@ -1,0 +1,19 @@
+
+
+
+# System Junk
+.DS_Store
+Thumbs.db
+
+# Python Bloat
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Large Data (Optional safety)
+*.zip
+*.tar.gz
+
